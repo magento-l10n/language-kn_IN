@@ -1,0 +1,21 @@
+{
+    "name": "community-engineering/language-kn_in",
+    "version": "0.0.0",
+    "type": "magento2-language",
+    "description": "kn_IN language package.",
+    "license": [
+        "OSL-3.0",
+        "AFL-3.0"
+    ],
+    "config": {
+        "sort-packages": true
+    },
+    "require": {
+        "magento/framework": "*"
+    },
+    "autoload": {
+        "files": [
+            "registration.php"
+        ]
+    }
+}
