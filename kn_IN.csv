@@ -2945,6 +2945,74 @@ Detail,ವಿವರ
 "Order Quantity","ವ್ಯಾಪಾರಾದೇಶದ ಪರಿಮಾಣ"
 "Coupons Usage Report","ಕೂಪನ್‍ಗಳ ಬಳಕೆಯ ವರದಿ"
 "Price Rule","ಬೆಲೆಯ ನಿಯಮ"
+"My Requisition Lists","ನನ್ನ ಬೇಡಿಕೆ ಪಟ್ಟಿಗಳು"
+"We can't update your requisition list right now.","ನಾವು ಸಧ್ಯಕ್ಕೆ ಬೇಡಿಕೆ ಪಟ್ಟಿಯನ್ನು ಪರಿಷ್ಕರಿಸಲಾಗಲಿಲ್ಲ."
+"We can't add the item to the Requisition List right now: %1.","ಈ ವಸ್ತುವನ್ನು ನಿಮ್ಮ ಬೇಡಿಕೆ ಪಟ್ಟಿಗೆ ಸೇರಿಸಲು ಸಧ್ಯಕ್ಕೆ ನಮಗೆ ಸಾಧ್ಯವಾಗುತ್ತಿಲ್ಲ: %1."
+"You added %1 item(s) to your shopping cart.","ನೀವು ನಿಮ್ಮ ಶಾಪಿಂಗ್ ಬುಟ್ಟಿಗೆ %1 ಉತ್ಪನ್ನ(ಗಳ) ವನ್ನು ಸೇರಿಸಿದ್ದೀರಿ."
+"Invalid request, please try again.","ಅಸಿಂಧುವಾದ ಕೋರಿಕೆ, ದಯವಿಟ್ಟು ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ."
+"Product with requested SKU could not be found.","ವಿನಂತಿಸಿದ SKU ಜೊತೆಗಿನ ಉತ್ಪನ್ನ ಕಂಡುಬಂದಿಲ್ಲ."
+"The product",ಉತ್ಪನ್ನ
+"%1 could not be added to the ""%2"" requisition list.","""%2"" ಬೇಡಿಕೆ ಪಟ್ಟಿಗೆ %1 ಅನ್ನು ಸೇರಿಸಲಾಗಲಿಲ್ಲ."
+"%1 could not be added to the requisition list.","ಬೇಡಿಕೆ ಪಟ್ಟಿಗೆ %1 ಅನ್ನು ಸೇರಿಸಲಾಗಲಿಲ್ಲ."
+"We can't configure the product right now.","ನಾವು ಸಧ್ಯಕ್ಕೆ ಉತ್ಪನ್ನವನ್ನು ಸಂರಚಿಸಲಾಗುವುದಿಲ್ಲ."
+"%1 item(s) were copied to %2","%1 ವಸ್ತು(ಗಳ) ವನ್ನು %2 ಕ್ಕೆ ನಕಲಿಸಲಾಗಿದೆ"
+"%1 item(s) were added to the ""%2""","%1 ವಸ್ತು(ಗಳ) ವನ್ನು %2 ಕ್ಕೆ ಸೇರಿಸಲಾಗಿದೆ"
+"%1 item(s) were moved to %2","%1 ವಸ್ತು(ಗಳ) ವನ್ನು %2 ಕ್ಕೆ ಸರಿಸಲಾಗಿದೆ"
+"The requisition list does not exist.","ಬೇಡಿಕೆ ಪಟ್ಟಿ ಅಸ್ತಿತ್ವದಲ್ಲಿಲ್ಲ."
+"All items in your Shopping Cart could not be added to the ""%1"" requisition list.","ಶಾಪಿಂಗ್ ಬುಟ್ಟಿಯಲ್ಲಿರುವ ಎಲ್ಲಾ ವಸ್ತುಗಳನ್ನು ""%1"" ಬೇಡಿಕೆ ಪಟ್ಟಿಗೆ ಸೇರಿಸಲಾಗಿಲ್ಲ."
+"Requisition Lists","ಬೇಡಿಕೆ ಪಟ್ಟಿಗಳು"
+"Requisition List","ಬೇಡಿಕೆ ಪಟ್ಟಿ"
+"Could not save Requisition List","ಬೇಡಿಕೆ ಪಟ್ಟಿಯನ್ನು ಉಳಿಸಲಾಗಲಿಲ್ಲ"
+"Cannot delete Requisition List with id %1","%1 ಐಡಿ ಜೊತೆಗಿನ ಬೇಡಿಕೆ ಪಟ್ಟಿ ಅನ್ನು ಅಳಿಸಲಾಗುವುದಿಲ್ಲ"
+"Requested product doesn't exist","ವಿನಂತಿಸಿದ ಉತ್ಪನ್ನ ಅಸ್ತಿತ್ವದಲ್ಲಿಲ್ಲ"
+"%1 has been updated in your requisition list.","%1 ಅನ್ನು ನಿಮ್ಮ ಬೇಡಿಕೆ ಪಟ್ಟಿಯಲ್ಲಿ ಪರಿಷ್ಕರಿಸಲಾಗಿದೆ."
+"Product %1 has been added to the requisition list %2.","ಉತ್ಪನ್ನ %1 ನ್ನು %2 ಬೇಡಿಕೆ ಪಟ್ಟಿಗೆ ಸೇರಿಸಲಾಗಿದೆ."
+"The SKU is out of stock.","SKU ದಾಸ್ತಾನಿನಲ್ಲಿಲ್ಲ."
+"Could not save Requisition List. Maximum number of requisition lists was exceeded.","ಬೇಡಿಕೆ ಪಟ್ಟಿಯನ್ನು ಉಳಿಸಲಾಗಲಿಲ್ಲ. ಬೇಡಿಕೆ ಪಟ್ಟಿಯ ಗರಿಷ್ಟ ಮಿತಿ ಮೀರಿದೆ."
+"Could not save requisition list. Invalid data provided","ಬೇಡಿಕೆ ಪಟ್ಟಿಯನ್ನು ಉಳಿಸಲಾಗಲಿಲ್ಲ. ಅಸಿಂಧುವಾದ ದತ್ತಾಂಶವನ್ನು ಕೊಡಲಾಗಿದೆ"
+"Warning message.","ಎಚ್ಚರಿಕೆ ಸಂದೇಶ."
+"No such requisition list could be found.","ಈ ರೀತಿಯ ಬೇಡಿಕೆ ಪಟ್ಟಿ ಯಾವುದೂ ಕಂಡುಬಂದಿಲ್ಲ."
+"Not found",ಕಂಡುಬಂದಿಲ್ಲ
+"Could not save",ಉಳಿಸಲಾಗಲಿಲ್ಲ
+"Add to Requisition List","ಬೇಡಿಕೆ ಪಟ್ಟಿಗೆ ಸೇರಿಸಿ"
+"Add Shopping Cart to Requisition List","ಶಾಪಿಂಗ್ ಬುಟ್ಟಿಯನ್ನು ಬೇಡಿಕೆ ಪಟ್ಟಿಗೆ ಸೇರಿಸಿ"
+"Update Requisition List","ಬೇಡಿಕೆ ಪಟ್ಟಿಯನ್ನು ಪರಿಷ್ಕರಿಸಿ"
+"Create Requisition List","ಬೇಡಿಕೆ ಪಟ್ಟಿಯನ್ನು ರಚಿಸಿ"
+"%1 has been added to the ""<a href=""%2"">%3</a>"" requisition list.","""<a href=""%2"">%3</a>"" ಬೇಡಿಕೆ ಪಟ್ಟಿಗೆ %1 ಅನ್ನು ಸೇರಿಸಲಾಗಿದೆ."
+"All the items in your Shopping Cart have been added to the ""%1"" requisition list.","ಶಾಪಿಂಗ್ ಬುಟ್ಟಿಯಲ್ಲಿರುವ ಎಲ್ಲಾ ವಸ್ತುಗಳನ್ನು %1 ಬೇಡಿಕೆ ಪಟ್ಟಿಗೆ ಸೇರಿಸಲಾಗಿದೆ."
+"Create New Requisition List","ಹೊಸ ಬೇಡಿಕೆ ಪಟ್ಟಿಯನ್ನು ರಚಿಸಿ"
+Rename,ಮರುಹೆಸರಿಸಿ
+"Rename Requisition List","ಬೇಡಿಕೆ ಪಟ್ಟಿಯನ್ನು ಮರುಹೆಸರಿಸಿ"
+"in requisition list","ಬೇಡಿಕೆ ಪಟ್ಟಿಯಲ್ಲಿ"
+"Update List","ಶಾಪಿಂಗ್ ಬುಟ್ಟಿ ಪರಿಷ್ಕರಿಸಿ"
+"Delete Requisition List","ಬೇಡಿಕೆ ಪಟ್ಟಿಯನ್ನು ಅಳಿಸಿ"
+"You have no items in this requisition list.","ನಿಮ್ಮ ಬೇಡಿಕೆ ಪಟ್ಟಿಯಲ್ಲಿ ಯಾವುದೇ ವಸ್ತುಗಳಿಲ್ಲ."
+"Edit item","ವಸ್ತುವನ್ನು ಸಂಪಾದಿಸಿ"
+"With Selected","ಆರಿಸಿದುದರ ಜೊತೆಗೆ"
+"Copy Selected","ಆರಿಸಿದುದನ್ನು ನಕಲಿಸಿ"
+Copy,ನಕಲಿಸಿ
+"Move Selected","ಆರಿಸಿದುದನ್ನು ಸರಿಸಿ"
+"Remove Selected","ಆರಿಸಿದುದನ್ನು ತೆಗೆದುಹಾಕಿ"
+"Are you sure you would like to remove selected items from the requisition list?","ನೀವು ಬೇಡಿಕೆ ಪಟ್ಟಿಯಿಂದ ಆರಿಸಿದ ವಸ್ತುಗಳನ್ನು ತೆಗೆದುಹಾಕಲು ಬಯಸುವಿರಾ?"
+"product(s) require your attention","ಉತ್ಪನ್ನಗಳಿಗೆ ನಿಮ್ಮ ಗಮನ ಬೇಕಾಗಿದೆ"
+"Requisition List Name","ಬೇಡಿಕೆ ಪಟ್ಟಿ ಹೆಸರು"
+"The shopping cart isn't empty","ಶಾಪಿಂಗ್ ಬುಟ್ಟಿ ಖಾಲಿಯಿಲ್ಲ"
+"Select Cancel to stay on the current page.","ಪ್ರಸ್ತುತ ಪುಟದಲ್ಲೇ ಉಳಿಯಲು ರದ್ದುಪಡಿಸಿ ಅನ್ನು ಆರಿಸಿ."
+Merge,ಒಂದುಗೂಡಿಸಿ
+"Add item to requisition list","ಬೇಡಿಕೆ ಪಟ್ಟಿಗೆ ವಸ್ತುವನ್ನು ಸೇರಿಸಿ"
+"The item ""%1"" is already in the ""%2"" requisition list.","""%2"" ಬೇಡಿಕೆ ಪಟ್ಟಿಯಲ್ಲಿ ""%1"" ವಸ್ತು ಈಗಾಗಲೇ ಇದೆ."
+"Add item","ವಸ್ತು ಸೇರಿಸಿ"
+"Add items to requisition list","ಬೇಡಿಕೆ ಪಟ್ಟಿಗೆ ವಸ್ತುಗಳನ್ನು ಸೇರಿಸಿ"
+"Some items in your Shopping Cart are already in the %1 requisition list.","ಶಾಪಿಂಗ್ ಬುಟ್ಟಿಯಲ್ಲಿರುವ ಕೆಲವು ವಸ್ತುಗಳು %1 ಬೇಡಿಕೆ ಪಟ್ಟಿಯಲ್ಲಿ ಈಗಾಗಲೇ ಇವೆ."
+"Add items","ವಸ್ತುಗಳನ್ನು ಸೇರಿಸಿ"
+Ok,ಓಕೆ
+"Please Select Product","ದಯವಿಟ್ಟಿ ಉತ್ಪನ್ನವನ್ನು ಆರಿಸಿ"
+"Please select at least one product to proceed.","ಮುಂದುವರೆಯಲು ದಯವಿಟ್ಟು ಕನಿಷ್ಟ ಒಂದು ಉತ್ಪನ್ನವನ್ನು ಆರಿಸಿ."
+"Requisition List Section","ಬೇಡಿಕೆ ಪಟ್ಟಿ ವಿಭಾಗ"
+"Enable Requisition List","ಬೇಡಿಕೆ ಪಟ್ಟಿಯನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ"
+"Number of Requisition Lists","ಬೇಡಿಕೆ ಪಟ್ಟಿಗಳ ಸಂಖ್ಯೆ"
+"Name & Description","ಹೆಸರು ಮತ್ತು ವಿವರಣೆ"
+"Latest Activity","ಇತ್ತೀಚಿನ ಚಟುವಟಿಕೆ"
 "Save Review","ವಿಮರ್ಶೆಯನ್ನು ಉಳಿಸಿ"
 "New Review","ಹೊಸ ವಿಮರ್ಶೆ"
 "Review Details","ವಿಮರ್ಶೆ ವಿವರಗಳು"
@@ -3000,6 +3068,113 @@ Approved,ಅನುಮೋದಿಸಿದೆ
 "Please select one of each of the ratings above.","ದಯವಿಟ್ಟು ಮೇಲಿನ ಪ್ರತಿಯೊಂದು ರೇಟಿಂಗಿನಲ್ಲಿ ಒಂದನ್ನು ಆರಿಸಿಕೊಳ್ಳಿ."
 "By Customers",ಗ್ರಾಹಕರಿಂದ
 "By Products",ಉತ್ಪನ್ನಗಳಿಂದ
+"Reward Points History","ಕೊಡುಗೆ ಅಂಕಗಳ ಇತಿಹಾಸ"
+"Expired reward","ಅವಧಿ ಮೀರಿದ ಕೊಡುಗೆಗಳು"
+"No Data",ದತ್ತಾಂಶವಿಲ್ಲ
+"Currency Amount","ಕರೆನ್ಸಿ ಮೊತ್ತ"
+"Reward Points Threshold","ಕೊಡುಗೆ ಅಂಕಗಳ ಮಿತಿ"
+"Are you sure you want to delete these points?","ನೀವು ಈ ಅಂಕಗಳನ್ನು ಖಚಿತವಾಗಿಯೂ ಅಳಿಸಬಯಸುವಿರಾ?"
+"Delete Orphan Points","ಅನಾಥ ಅಂಕಗಳನ್ನು ಅಳಿಸಿ"
+"Update Points","ಅಂಕಗಳನ್ನು ಪರಿಷ್ಕರಿಸಿ"
+"Reward Points Notifications","ಕೊಡುಗೆ ಅಂಕಗಳ ಅಧಿಸೂಚನೆಗಳು"
+"Add New Rate","ಹೊಸ ದರವನ್ನು ಸೇರಿಸಿ"
+Direction,ದಿಕ್ಕು
+"Use your reward points; %1 are available.","ಕೊಡುಗೆ ಅಂಕಗಳನ್ನು ಬಳಸಿ; %1 ಲಭ್ಯವಿವೆ."
+"You removed the orphan points.","ನೀವು ಅನಾಥ ಅಂಕಗಳನ್ನು ತೆಗೆದುಹಾಕಿದ್ದೀರಿ."
+"You deleted the rate.","ನೀವು ದರವನ್ನು ಅಳಿಸಿದ್ದೀರಿ."
+"You saved the rate.","ನೀವು ದರವನ್ನು ಉಳಿಸಿದ್ದೀರಿ."
+"We can't save this rate right now.","ನಾವು ಸಧ್ಯಕ್ಕೆ ದರವನ್ನು ಪರಿಷ್ಕರಿಸಲಾಗಲಿಲ್ಲ."
+"Please enter all rate information.","ದಯವಿಟ್ಟು ಎಲ್ಲಾ ದರದ ಮಾಹಿತಿಯನ್ನು ನಮೂದಿಸಿ."
+"You saved the settings.","ನೀವು ಸಂಯೋಜನೆಯನ್ನು ಉಳಿಸಿದ್ದೀರಿ."
+"%1 Reward points (%2)","%1 ಕೊಡುಗೆ ಅಂಕಗಳು(%2)"
+"%1 Reward points","%1 ಕೊಡುಗೆ ಅಂಕಗಳು"
+"Earned points for order #%1","ವ್ಯಾಪಾರಾದೇಶ #%1 ಕ್ಕೆ ಗಳಿಸಿದ ಅಂಕಗಳು"
+"Registered as customer","ಗ್ರಾಹಕರಂತೆ ನೋಂದಾಯಿಸಲಾಗಿದೆ"
+"For submitting a product review","ಉತ್ಪನ್ನದ ವಿಮರ್ಶೆ ಸಲ್ಲಿಕೆಗಾಗಿ"
+"Points to Currency","ಅಂಕಗಳಿಂದ ಕರೆನ್ಸಿಗೆ"
+"Currency to Points","ಕರೆನ್ಸಿಯಿಂದ ಅಂಕಗಳಿಗೆ"
+Each,ಪ್ರತಿ
+First,ಮೊದಲ
+"Reward Points Balance","ಕೊಡುಗೆ ಅಂಕಗಳ ಬಾಕಿ"
+Points,ಅಂಕಗಳು
+"There is no balance history.","ಬಾಕಿ ಇತಿಹಾಸ ಇಲ್ಲ."
+"Reward points balance Information","ಕೊಡುಗೆ ಅಂಕಗಳ ಬಾಕಿಯ ಮಾಹಿತಿ"
+"Your balance is %1.","ನಿಮ್ಮ ಬಾಕಿ %1."
+"%1 spent = %2 earned","%1 ಖರ್ಚುಮಾಡಿದ್ದು = %2 ಗಳಿಸಿದ್ದು"
+"Balance limit is %1.","ಬಾಕಿ ಮಿತಿ %1."
+"Email Notification Settings","ಮಿಂಚೆ ಅಧಿಸೂಚನೆ ಸಂಯೋಜನೆಗಳು"
+"Reward points","ಕೊಡುಗೆ ಅಂಕಗಳು"
+"Use reward points","ಕೊಡುಗೆ ಅಂಕಗಳನ್ನು ಬಳಸಿ"
+"Your reward point was successfully applied","ನಿಮ್ಮ ಕೊಡುಗೆ ಅಂಕವನ್ನು ಯಶಸ್ವಿಯಾಗಿ ಅನ್ವಯಿಸಲಾಗಿದೆ"
+"Manage Reward Points Balances","ಕೊಡುಗೆ ಅಂಕಗಳ ಬಾಕಿಯನ್ನು ನಿರ್ವಹಿಸಿ"
+"Landing Page","ನೆಲೆದಾಣ ಪುಟ"
+Purchase,ಖರೀದಿ
+Registration,ನೋಂದಣಿ
+"Converting Invitation to Customer","ಆಹ್ವಾನವನ್ನು ಗ್ರಾಹಕರಂತೆ ಬದಲಿಸಿ"
+"Review Submission","ವಿಮರ್ಶೆ ಸಲ್ಲಿಕೆ"
+"Expiry Warning Before (days)","ಅವಧಿ ಅಂತ್ಯದ ಎಚ್ಚರಿಕೆ (ದಿನಗಳ) ಮುನ್ನ"
+"Reward Points Rates","ಕೊಡುಗೆ ಅಂಕಗಳ ದರಗಳು"
+"Amount Balance","ಬಾಕಿ ಮೊತ್ತ"
+"Add Reward Points","ಕೊಡುಗೆ ಅಂಕಗಳನ್ನು ಸೇರಿಸಿ"
+"Submit Comment","ಅಭಿಪ್ರಾಯ ಸಲ್ಲಿಸಿ"
+Authorized,ದೃಢೀಕರಿಸಿದೆ
+Split,ವಿಭಜಿಸಿ
+"Remaining Qty","ಉಳಿದಿರುವ ಪರಿಮಾಣ"
+"Requested Qty","ವಿನಂತಿಸಿದ ಪರಿಮಾಣ"
+"Add Details","ವಿವರಗಳನ್ನು ಸೇರಿಸಿ"
+"Invalid order","ಅಸಿಂಧುವಾದ ವ್ಯಾಪಾರಾದೇಶ"
+"Please enter a tracking number.","ದಯವಿಟ್ಟು ಟ್ರಾಕಿಂಗ್ ಸಂಖ್ಯೆಯನ್ನು ನಮೂದಿಸಿ."
+"Tracking Information","ಟ್ರಾಕಿಂಗ್ ಮಾಹಿತಿ"
+"Order # ","ವ್ಯಾಪಾರಾದೇಶ # "
+"Ordered: ","ವ್ಯಾಪಾರಾದೇಶಿಸಿದ: "
+"Authorized Qty","ದೃಢೀಕರಿಸಿದ ಪರಿಮಾಣ"
+"Approved Qty","ಅನುಮೋದಿಸಿದ ಪರಿಮಾಣ"
+Denied,ನಿರಾಕರಿಸಿದೆ
+"The entity that was requested doesn't exist. Verify the entity and try again.","ವಿನಂತಿಸಿದ ಉತ್ಪನ್ನವು ಕಂಡುಬಂದಿಲ್ಲ. ಉತ್ಪನ್ನವನ್ನು ಪರಿಶೀಲಿಸಿ ಮತ್ತು ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ."
+"Please enter a valid comment.","ದಯವಿಟ್ಟು ಸರಿಯಾದ ಅಭಿಪ್ರಾಯವನ್ನು ನಮೂದಿಸಿ."
+"All Items","ಎಲ್ಲಾ ವಸ್ತುಗಳು"
+"RMA Totals","RMA ಮೊತ್ತಗಳು"
+"Request Details","ವಿನಂತಿ ವಿವರಗಳು"
+"Customer Name","ಗ್ರಾಹಕರ ಹೆಸರು"
+"RMA History","RMA ಇತಿಹಾಸ"
+"Comment Text","ಅಭಿಪ್ರಾಯ ಪಠ್ಯ"
+"Customer Service","ಗ್ರಾಹಕ ಸೇವೆ"
+"Delete Line","ಸಾಲನ್ನು ಅಳಿಸಿ"
+Number,ಸಂಖ್ಯೆ
+Sub-items,ಉಪ-ವಸ್ತುಗಳು
+"Remaining Quantity:","ಉಳಿದಿರುವ ಪರಿಮಾಣ:"
+Length,ಉದ್ದ
+"Total Weight","ಒಟ್ಟು ತೂಕ"
+"Request Information","ಮಾಹಿತಿ ವಿನಂತಿಸಿ"
+"Date Requested","ವಿನಂತಿಸಿದ ದಿನಾಂಕ"
+"Shipping and Tracking Information","ರವಾನೆ ಮತ್ತು ಟ್ರಾಕಿಂಗ್ ಮಾಹಿತಿ"
+"Track this shipment","ಈ ರವಾನೆಯನ್ನು ಟ್ರಾಕ್ ಮಾಡಿ"
+"Request Qty","ವಿನಂತಿಸಿದ ಪರಿಮಾಣ"
+"Hide Details","ವಿವರಗಳನ್ನು ಅಡಗಿಸಿ"
+"Show Details","ವಿವರಗಳನ್ನು ತೋರಿಸಿ"
+"Questions and Answers","ಪ್ರಶ್ನೆ ಮತ್ತು ಉತ್ತರಗಳು"
+Questions,ಪ್ರಶ್ನೆಗಳು
+Answers,ಉತ್ತರಗಳು
+"Leave Comment","ಅಭಿಪ್ರಾಯ ನೀಡಿ"
+"RMA Settings","RMA ಸಂಯೋಜನೆಗಳು"
+"Use Store Address","ಮಳಿಗೆ ವಿಳಾಸ ಬಳಸಿ"
+"Contact Name","ಸಂಪರ್ಕದ ಹೆಸರು"
+"RMA Email Sender","RMA ಮಿಂಚೆ ರವಾನೆದಾರ"
+"RMA Email Template","RMA ಮಿಂಚೆಯ ಮಾದರಿ"
+"RMA Authorization","RMA ದೃಢೀಕರಣ"
+"Enabled for RMA","RMA ಗಾಗಿ ಸಕ್ರಿಯವಾಗಿದೆ"
+"Any message","ಯಾವುದೇ ಸಂದೇಶ"
+Feed,ಫೀಡ್‌
+"Get Feed","ಫೀಡ್ ಪಡೆಯಿರಿ‌"
+"RSS Feeds Section","RSS ಫೀಡ್‍ಗಳ ವಿಭಾಗ"
+"RSS Feeds","RSS ಫೀಡ್‍ಗಳು"
+"Enable RSS","RSS ಸಕ್ರಿಯಗೊಳಿಸಿ"
+"Please choose a valid discount amount.","ದಯವಿಟ್ಟು ಸರಿಯಾದ ರಿಯಾಯಿತಿ ಮೊತ್ತವನ್ನು ಆರಿಸಿ."
+"Please specify Customer Groups.","ದಯವಿಟ್ಟು ಗ್ರಾಹಕರ ಗುಂಪನ್ನು ನಮೂದಿಸಿ."
+ALL,ಎಲ್ಲಾ
+ANY,ಯಾವುದೇ
+TRUE,ನಿಜ
+FALSE,ಸುಳ್ಳು
 "Search Synonyms","ಪರ್ಯಾಯ ಪದಗಳನ್ನು ಹುಡುಕಿ"
 "    All Store Views","    ಎಲ್ಲಾ ಮಳಿಗೆಗಳ ನೋಟಗಳು"
 Synonyms,"ಪರ್ಯಾಯ ಪದಗಳು"
@@ -3010,19 +3185,13 @@ Synonyms,"ಪರ್ಯಾಯ ಪದಗಳು"
 "View Another Order","ಇನ್ನೊಂದು ವ್ಯಾಪಾರಾದೇಶವನ್ನು ವೀಕ್ಷಿಸಿ"
 "The comment is missing. Enter and try again.","ಅಭಿಪ್ರಾಯ ಕಾಣೆಯಾಗಿದೆ. ನಮೂದಿಸಿ ಮತ್ತು ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ."
 "Cannot add new comment.","ಹೊಸ ಅಭಿಪ್ರಾಯವನ್ನು ಸೇರಿಸಲಾಗುವುದಿಲ್ಲ."
-"Please enter a tracking number.","ದಯವಿಟ್ಟು ಟ್ರಾಕಿಂಗ್ ಸಂಖ್ಯೆಯನ್ನು ನಮೂದಿಸಿ."
 Shipments,ರವಾನೆಗಳು
 "New Shipment","ಹೊಸ ರವಾನೆ"
-"Tracking Information","ಟ್ರಾಕಿಂಗ್ ಮಾಹಿತಿ"
-Length,ಉದ್ದ
-"Total Weight","ಒಟ್ಟು ತೂಕ"
 Girth,ಸುತ್ತಳತೆ
 "Email has not been sent","ಮಿಂಚೆಯನ್ನು ಕಳುಹಿಸಲಾಗಿಲ್ಲ"
 "Total Shipping Charges","ಒಟ್ಟು ಸಾಗಾಣಿಕೆ ವೆಚ್ಚಗಳು"
-"Comment Text","ಅಭಿಪ್ರಾಯ ಪಠ್ಯ"
 in,ಇಂಚು
 kg,ಕೆಜಿ
-Number,ಸಂಖ್ಯೆ
 "Shipment History","ರವಾನೆ ಚರಿತ್ರೆ"
 "Shipment #","ರವಾನೆ #"
 "Print Shipment","ರವಾನೆ ಮುದ್ರಿಸಿ"
@@ -3150,8 +3319,20 @@ Keyword,ಮುಖ್ಯಪದ
 "You can buy this product only in quantities of %1 at a time.","ನೀವು ಈ ಉತ್ಪನ್ನವನ್ನು ಒಂದು ಬಾರಿಗೆ %1 ರ ಪರಿಮಾಣದಲ್ಲಿ ಮಾತ್ರ ಖರೀದಿಸಬಹುದು."
 "The date is not within the specified range.","ದಿನಾಂಕ ನಿಗದಿತ ವ್ಯಾಪ್ತಿಯೊಳಗಿಲ್ಲ."
 Attention,ಗಮನ
-Ok,ಓಕೆ
+Commercial,ವಾಣಿಜ್ಯ
+"Not Required",ಅಗತ್ಯವಿಲ್ಲ
+"Allowed Methods","ಅನುಮತಿಸಿದ ವಿಧಾನಗಳು"
+"UPS Type","UPS ವಿಧ"
 "User ID","ಬಳಕೆದಾರರ ID"
+"Shipper Number","ರವಾನೆ ಸಂಖ್ಯೆ"
+Category:,ವಿಭಾಗ:
+Product:,ಉತ್ಪನ್ನ:
+"CMS page:","CMS ಪುಟ:"
+"Block Information","ಬ್ಲಾಕ್ ಮಾಹಿತಿ"
+"For Category",ವಿಭಾಗಕ್ಕಾಗಿ
+"For Product",ಉತ್ಪನ್ನಕ್ಕಾಗಿ
+"message %1","ಸಂದೇಶ %1"
+"Are you sure you want to delete a record #%1?","#%1 ದಾಖಲೆಯನ್ನು ಅಳಿಸಲು ಬಯಸುವಿರಾ?"
 "Save User","ಬಳಕೆದಾರರನ್ನು ಉಳಿಸಿ"
 "Delete User","ಬಳಕೆದಾರರನ್ನು ಅಳಿಸಿ"
 "Edit User '%1'","ಬಳಕೆದಾರ '%1' ಅವರನ್ನು ಸಂಪಾದಿಸಿ"
@@ -3190,13 +3371,11 @@ Letter,ಪತ್ರ
 Parcel,ಪಾರ್ಸೆಲ್ಲು
 Regular,ನಿಯತ
 Large,ದೊಡ್ಡ
-"Not Required",ಅಗತ್ಯವಿಲ್ಲ
 "No token found.","ಯಾವುದೇ ಟೋಕನ್ ಕಂಡುಬಂದಿಲ್ಲ."
 "Card Number","ಕಾರ್ಡ್ ಸಂಖ್ಯೆ"
 "Are you sure you want to delete this card: %1?","ನೀವು %1 ಕಾರ್ಡ್ ಅನ್ನು ಖಚಿತವಾಗಿಯೂ ಅಳಿಸಲು ಬಯಸುವಿರಾ?"
 "Specify the ""public_hash"" value.","""public_hash"" ನಮೂದನ್ನು ಸೂಚಿಸಿ."
 "Delete Current Hierarchy","ಪ್ರಸ್ತುತ ವರ್ಗಶ್ರೇಣಿಯನ್ನು ಅಳಿಸಿ"
-Copy,ನಕಲಿಸಿ
 "Pages Hierarchy","ಪುಟಗಳ ವರ್ಗಶ್ರೇಣಿ"
 "Preview is not available.","ಮುನ್ನೋಟ ಲಭ್ಯವಿಲ್ಲ."
 First,ಮೊದಲಿನ
