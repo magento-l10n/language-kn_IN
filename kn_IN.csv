@@ -148,8 +148,16 @@ File,ಕಡತ
 "Please correct the data sent.","ಕಳುಹಿಸಿದ ದತ್ತಾಂಶವನ್ನು ದಯವಿಟ್ಟು ಸರಿಪಡಿಸಿ."
 "There are no product types available for export","ರಫ್ತುಮಾಡಲು ಉತ್ಪನ್ನದ ವಿಧಗಳು ಯಾವುದೂ ಲಭ್ಯವಿಲ್ಲ"
 "Sales Rule","ವ್ಯಾಪಾರದ ನಿಯಮ"
+"Related Search Terms","ಸಂಬಂಧಿತ ಹುಡುಕುವಿಕೆಯ ಪದಪುಂಜಗಳು"
+"Add New Search Term","ಹೊಸ ಹುಡುಕುವಿಕೆಯ ಪದಪುಂಜವನ್ನು ಸೇರಿಸಿ"
+"Connection failed! Test again?","ಸಂಪರ್ಕ ವಿಫಲವಾಗಿದೆ! ಮತ್ತೆ ಪರೀಕ್ಷಿಸುವಿರಾ?"
+"Show Results Count for Each Suggestion","ಪ್ರತಿ ಸಲಹೆಗಳಿಗೆ ಫಲಿತಾಂಶದ ಎಣಿಕೆಯನ್ನು ಪ್ರದರ್ಶಿಸಿ"
+"Related search terms","ಸಂಬಂಧಿತ ಹುಡುಕುವಿಕೆಯ ಪದಪುಂಜಗಳು"
+"Did you mean","ನಿಮ್ಮ ಪ್ರಕಾರ"
 Store,ಮಳಿಗೆ
 Results,ಫಲಿತಾಂಶಗಳು
+Uses,ಬಳಸುತ್ತಿದೆ
+"Redirect URL","URL ಮರುನಿರ್ದೇಶಿಸಿ"
 Yes,ಹೌದು
 "Message has been rejected: %1","ಸಂದೇಶವನ್ನು ನಿರಾಕರಿಸಲಾಗಿದೆ: %1"
 "Subscription status","ಚಂದಾದಾರಿಕೆಯ ಸ್ಥಿತಿ"
@@ -190,7 +198,10 @@ Done,ಮುಗಿದಿದೆ
 Retry,ಮರುಪ್ರಯತ್ನಿಸಿ
 "'Action Details - #' .","'ಕ್ರಿಯಗಳ ವಿವರ - #' ."
 "Bulk Actions Log","ಸಾಮೂಹಿಕ ಕ್ರಿಯೆಗಳ ಲಾಗ್"
+"Topic %1","ವಿಷಯ %1"
 "Something went wrong while processing the request.","ಈ ವಿನಂತಿಯನ್ನು ಸಂಸ್ಕರಿಸುವಲ್ಲಿ ಎನೋ ತೊಂದರೆಯಾಗಿದೆ."
+"Sorry, something went wrong during product prices update. Please see log for details.","ಕ್ಷಮಿಸಿ, ಉತ್ಪನ್ನದ ಬೆಲೆಗಳನ್ನು ಪರಿಷ್ಕರಿಸುವಲ್ಲಿ ಯಾವುದೋ ತೊಂದರೆಯುಂಟಾಗಿದೆ, ದಯವಿಟ್ಟು ವಿವರಗಳಿಗಾಗಿ ಲಾಗ್ ಅನ್ನು ವೀಕ್ಷಿಸಿ."
+"Task ""%1"": ","ಕೆಲಸ ""%1"": "
 Details,ವಿವರಗಳು
 "View Details","ವಿವರಗಳನ್ನು ವೀಕ್ಷಿಸಿ"
 Dismiss,ವಜಾಗೊಳಿಸಿ
@@ -213,7 +224,10 @@ failed.,ವಿಫಲಗೊಂಡಿದೆ.
 successful.,ಯಶಸ್ವಿಯಾಗಿದೆ.
 authorize,ದೃಢೀಕರಿಸಿ
 refund,ಮರುಪಾವತಿಸಿ
+"Something went wrong in the payment gateway.","ಪಾವತಿ ಗೇಟ್‍‍ವೇನಲ್ಲಿ ಯಾವುದೋ ದೋಷ ಸಂಭವಿಸಿದೆ."
 "Invalid amount for refund.","ಮರುಪಾವತಿಗೆ ಅಮಾನ್ಯವಾದ ಮೊತ್ತ."
+"There was a payment authorization error.","ಪಾವತಿ ದೃಢೀಕರಣದ ಒಂದು ದೋಷ ಸಂಭವಿಸಿದೆ."
+"Authorize Only","ದೃಢೀಕರಣ ಮಾತ್ರ"
 "Credit Card Type","ಕ್ರೆಡಿಟ್ ಕಾರ್ಡ್ ವಿಧ"
 "Please Select","ದಯವಿಟ್ಟು ಆರಿಸಿ"
 "Credit Card Number","ಕ್ರೆಡಿಟ್ ಕಾರ್ಡ್ ಸಂಖ್ಯೆ"
@@ -223,20 +237,26 @@ refund,ಮರುಪಾವತಿಸಿ
 Enabled,ಸಕ್ರಿಯವಾಗಿದೆ
 "Payment Action","ಪಾವತಿ ಕ್ರಿಯೆ"
 Title,ಶೀರ್ಷಿಕೆ
+"API Login ID","API ಲಾಗಿನ್ ID"
+"Transaction Key","ವಹಿವಾಟಿನ ಕೀ"
+"Merchant MD5","ವರ್ತಕರ MD5"
 "New Order Status","ಹೊಸ ವ್ಯಾಪಾರಾದೇಶದ ಸ್ಠಿತಿ"
+"Test Mode","ಪರೀಕ್ಷಾ ಕ್ರಮ"
+"Transaction Details URL","ವ್ಯವಹಾರದ ವಿವರಗಳ URL"
 "Accepted Currency","ಅಂಗೀಕರಿಸುವ ಕರೆನ್ಸಿ"
 Debug,ಡೀಬಗ್
+"Email Customer","ಗ್ರಾಹಕರಿಗೆ ಮಿಂಚೆ ಕಳುಹಿಸಿ"
 "Merchant's Email","ವರ್ತಕರ ಮಿಂಚೆ"
 "Credit Card Types","ಕ್ರೆಡಿಟ್ ಕಾರ್ಡ್ ವಿಧ"
 "Credit Card Verification","ಕ್ರೆಡಿಟ್ ಕಾರ್ಡ್ ಪರಿಶೀಲನೆ"
+"Payment from Applicable Countries","ಅನ್ವಯವಾಗುವ ರಾಷ್ಟ್ರಗಳಿಂದ ಪಾವತಿ"
+"Payment from Specific Countries","ನಿರ್ದಿಷ್ಟ ರಾಷ್ಟ್ರಗಳಿಂದ ಪಾವತಿ"
 "Minimum Order Total","ಕನಿಷ್ಟ ವ್ಯಾಪಾರಾದೇಶದ ಮೊತ್ತ"
 "Maximum Order Total","ಗರಿಷ್ಟ ವ್ಯಾಪಾರಾದೇಶದ ಮೊತ್ತ"
 "Sort Order","ವಿಂಗಡಣಾ ಕ್ರಮ"
+"Cannot place order.","ವ್ಯಾಪಾರಾದೇಶಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ."
 Environment,ಪರಿಸರ
-"Transaction Key","ವಹಿವಾಟಿನ ಕೀ"
 "Credit Card Types","ಕ್ರೆಡಿಟ್ ಕಾರ್ಡ್ ವಿಧಗಳು"
-"Payment from Applicable Countries","ಅನ್ವಯವಾಗುವ ರಾಷ್ಟ್ರಗಳಿಂದ ಪಾವತಿ"
-"Payment from Specific Countries","ನಿರ್ದಿಷ್ಟ ರಾಷ್ಟ್ರಗಳಿಂದ ಪಾವತಿ"
 "Transaction has been declined. Please try again later.","ವಹಿವಾಟನ್ನು ನಿರಾಕರಿಸಲಾಗಿದೆ. ದಯವಿಟ್ಟು ನಂತರ ಪ್ರಯತ್ನಿಸಿ."
 options,ಆಯ್ಕೆಗಳು
 "Select all","ಎಲ್ಲವನ್ನೂ ಆರಿಸು"
@@ -453,12 +473,31 @@ Description,ವಿವರಣೆ
 "Design Rule","ವಿನ್ಯಾಸ ನಿಯಮ"
 Pagination,ಪುಟೀಕರಣ
 "Theme Name","ಥೀಮ್ ಹೆಸರು"
+"System Backup","ವ್ಯವಸ್ಥೆ ಬ್ಯಾಕಪ್"
+"Database and Media Backup","ಡೇಟಾಬೇಸ್ ಮತ್ತು ಮಾಧ್ಯಮ ಬ್ಯಾಕಪ್"
+"Database Backup","ಡೇಟಾಬೇಸ್ ಬ್ಯಾಕಪ್"
+"You need more free space to create a backup.","ಬ್ಯಾಕಪ್ ಅನ್ನು ರಚಿಸಲು ನಿಮಗೆ ಹೆಚ್ಚಿನ ಖಾಲಿ ಜಾಗದ ಅಗತ್ಯವಿದೆ."
+"You need more permissions to create a backup.","ಬ್ಯಾಕಪ್ ಅನ್ನು ರಚಿಸಲು ನಿಮಗೆ ಹೆಚ್ಚಿನ ಅನುಮತಿಗಳ ಅಗತ್ಯವಿದೆ."
 Backups,ಬ್ಯಾಕಪ್‍ಗಳು
 Backup,ಬ್ಯಾಕಪ್‍
+"We can't delete one or more backups.","ಒಂದಕ್ಕಿಂತ ಹೆಚ್ಚು ಬ್ಯಾಕಪ್ ಗಳನ್ನು ನಾವು ಅಳಿಸಲಾಗುವುದಿಲ್ಲ."
 failed,ವಿಫಲಗೊಂಡಿದೆ
 successful,ಯಶಸ್ವಿಯಾಗಿದೆ
+"You deleted the selected backup(s).","ನೀವು ಆಯ್ಕೆಮಾಡಿದ ಬ್ಯಾಕಪ್(ಗಳ) ನ್ನು ಅಳಿಸಿದ್ದೀರಿ."
+"Please correct the password.","ಗುಪ್ತಪದವನ್ನು ದಯವಿಟ್ಟು ಸರಿಪಡಿಸಿ."
+Database,ಡೇಟಾಬೇಸ್
+"Database and Media","ಡೇಟಾಬೇಸ್ ಮತ್ತು ಮಾಧ್ಯಮ"
+"System (excluding Media)","ವ್ಯವಸ್ಥೆ (ಮಾಧ್ಯಮ ರಹಿತ)"
+"You created the database backup.","ನೀವು ಡೇಟಾಬೇಸ್ ಬ್ಯಾಕಪ್ ಅನ್ನು ರಚಿಸಿದ್ದೀರಿ."
+"The backup file does not exist.","ಬ್ಯಾಕಪ್ ಕಡತ ಅಸ್ತಿತ್ವದಲ್ಲಿಲ್ಲ."
+"Are you sure you want to continue?","ಮುಂದುವರೆಯಲು ನೀವು ಖಚಿತವಾಗಿ ಬಯಸುವಿರಾ?"
+"This may take a few moments.","ಇದಕ್ಕೆ ಕೆಲವು ನಿಮಷಗಳು ಹಿಡಿಯಬಹುದು."
 "Backup Name","ಬ್ಯಾಕಪ್ ಹೆಸರು"
 "Please use only letters (a-z or A-Z), numbers (0-9) or spaces in this field.","ದಯವಿಟ್ಟು ಅಕ್ಷರಗಳು(a-z or A-Z), ಅಂಕೆಗಳು(0-9) ಅಥವಾ ಖಾಲಿಜಾಗಗಳನ್ನು ಮಾತ್ರ ಈ ವಲಯದಲ್ಲಿ ಬಳಸಿ."
+"Maintenance mode","ನಿರ್ವಹಣಾ ವಿಧಾನ"
+Exclude,ಹೊರತುಪಡಿಸಿ
+"Exclude media folder from backup","ಬ್ಯಾಕಪ್‍ನಿಂದ ಮಾಧ್ಯಮ ಫೋಲ್ಡರ್ ಅನ್ನು ಹೊರಗಿಡಿ"
+"This action cannot be undone.","ಈ ಕಾರ್ಯವನ್ನು ರದ್ದುಗೊಳಿಸಲು ಸಾಧ್ಯವಿರುವುದಿಲ್ಲ."
 "User Password","ಬಳಕೆದಾರರ ಗುಪ್ತಪದ"
 "FTP Login","FTP ಲಾಗಿನ್"
 "FTP Password","FTP ಗುಪ್ತಪದ"
@@ -469,6 +508,7 @@ Frequency,ಆವರ್ತನ
 "Are you sure you want to delete the selected backup(s)?","ಆಯ್ಕೆಮಾಡಿದ ಬ್ಯಾಕಪ್‍ಗಳನ್ನು ಅಳಿಸಲು ಬಯಸುವಿರಾ?"
 Type,ವಿಧ
 Download,ಡೌನ್‍ಲೋಡ್
+"Save and Continue Edit","ಉಳಿಸಿ ಮತ್ತು ಸಂಪಾದನೆಯನ್ನು ಮುಂದುವರೆಸಿ"
 "Are you sure you want to do this?","ಇದನ್ನು ಮಾಡಲು ನೀವು ಖಚಿತವಾಗಿ ಬಯಸುವಿರಾ?"
 "Default Content","ನಿಯೋಜಿತ ವಿಷಯ"
 "No Default Content","ನಿಯೋಜಿತ ವಿಷಯವಿಲ್ಲ"
@@ -482,7 +522,9 @@ Inactive,ನಿಷ್ಕ್ರಿಯ
 "Specify Types","ವಿಧಗಳನ್ನು ಸೂಚಿಸಿ"
 Position,ಸ್ಥಾನ
 "This rule no longer exists.","ಈ ನಿಯಮವು ಈಗ ಅಸ್ತಿತ್ವದಲ್ಲಿರುವುದಿಲ್ಲ."
+"You saved the dynamic block.","ನೀವು ಕ್ರಿಯಾಶೀಲ ಬ್ಲಾಕ್ ಅನ್ನು ಉಳಿಸಿದ್ದೀರಿ."
 "Please enter a name.","ದಯವಿಟ್ಟು ಹೆಸರೊಂದನ್ನು ನಮೂದಿಸಿ."
+"-- None --","-ಯಾವುದೂ ಇಲ್ಲ-"
 Footer,ಅಡಿಬರಹ
 Header,ತಲೆಬರಹ
 "Add Cart Price Rules","ಶಾಪಿಂಗ್ ಬುಟ್ಟಿಯ ನಿಯಮಗಳನ್ನು ಸೇರಿಸಿ"
@@ -547,10 +589,16 @@ Select...,ಆರಿಸಿ...
 "Special Price","ವಿಶೇಷ ಬೆಲೆ"
 """sku"" value should be specified","""sku"" ನಮೂದನ್ನು ಸೂಚಿಸಲೇ ಬೇಕು"
 Always,ಯಾವಾಗಲೂ
+"After number of attempts to login","ಲಾಗಿನ್ ಆಗಲು ಹಲವಾರು ಪ್ರಯತ್ನಗಳ ನಂತರ"
 "Incorrect CAPTCHA","ಅಸಿಂಧುವಾದ CAPTCHA"
 "Incorrect CAPTCHA.","ಅಸಿಂಧುವಾದ CAPTCHA."
+"Reload captcha","ಕ್ಯಾಪ್ಚಾ ವನ್ನು ಮರುತುಂಬಿಸಿ"
 Font,ಅಕ್ಷರಶೈಲಿ
+Forms,ಫಾರಮ್ಮುಗಳು
 "Displaying Mode","ಪ್ರದರ್ಶನದ ವಿಧ"
+"Number of Symbols","ಸಂಕೇತಗಳ ಸಂಖ್ಯೆ"
+"Symbols Used in CAPTCHA","CAPTCHA ದಲ್ಲಿ ಬಳಸಿರುವ ಸಂಕೇತಗಳು"
+"Case Sensitive","ಕೇಸ್ ಸಂವೇದಿ"
 Root,ಮೂಲ
 "Are you sure you want to delete this category?","ನೀವು ಈ ವಿಭಾಗವನ್ನು ಖಚಿತವಾಗಿಯೂ ಅಳಿಸಲು ಬಯಸುವಿರಾ?"
 "Add Subcategory","ಉಪವಿಭಾಗ ಸೇರಿಸಿ"
@@ -565,7 +613,6 @@ to,ಗೆ
 "Product Attributes","ಉತ್ಪನ್ನದ ಗುಣವಿಶೇಷಗಳು"
 "Add New Attribute","ಹೊಸ ಗುಣವಿಶೇಷವನ್ನು ಸೇರಿಸಿ"
 "Save Attribute","ಗುಣವಿಶೇಷವನ್ನು ಉಳಿಸಿ"
-"Save and Continue Edit","ಉಳಿಸಿ ಮತ್ತು ಸಂಪಾದನೆಯನ್ನು ಮುಂದುವರೆಸಿ"
 "Delete Attribute","ಗುಣವಿಶೇಷವನ್ನು ಅಳಿಸಿ"
 "New Product Attribute","ಹೊಸ ಉತ್ಪನ್ನದ ಗುಣವಿಶೇಷ"
 "Attribute Code","ಗುಣವಿಶೇಷ ಸಂಕೇತ"
@@ -1996,7 +2043,6 @@ Decision,ನಿರ್ಧಾರ
 Authorize,ದೃಢೀಕರಿಸಿ
 "Access Key","ಅನುಮತಿ ಸಂಕೇತ"
 "Secret Key","ರಹಸ್ಯ ಸಂಕೇತ"
-"Test Mode","ಪರೀಕ್ಷಾ ಕ್ರಮ"
 "Import failed: %1","ಆಮದು ವಿಫಲವಾಗಿದೆ: %1"
 "Wrong type specified: '%1'","ತಪ್ಪಾದ ವಿಧವನ್ನು ಸೂಚಿಸಲಾಗಿದೆ: %1"
 "some message","ಒಂದು ಸಂದೇಶ"
@@ -2477,7 +2523,6 @@ Partners,ಪಾಲುದಾರರು
 "The ""%1"" file doesn't exist. Verify the file and try again.","""%1"" ಕಡತ ಅಸ್ತಿತ್ವದಲ್ಲಿಲ್ಲ. ಪರಿಶೀಲಿಸಿ ಮತ್ತು ಮತ್ತೊಮ್ಮೆ ಪ್ರಯತ್ನಿಸಿ."
 "File %1 is not readable","%1 ಕಡತವನ್ನು ಓದಲಾಗುವುದಿಲ್ಲ"
 "File System","ಕಡತ ವ್ಯವಸ್ಥೆ"
-Database,ಡೇಟಾಬೇಸ್
 "File system","ಕಡತ ವ್ಯವಸ್ಥೆ"
 "Unable to save file: %1","ಕಡತವನ್ನು ಉಳಿಸಲಾಗಿಲ್ಲ: %1"
 "Image resize: %1","ಚಿತ್ರ ಮರುಗಾತ್ರಿಸಿ:%1"
@@ -3395,7 +3440,6 @@ Pending,"ಬಾಕಿ ಇದೆ"
 "%store_name  - Scheduled Import Failed","%store_name - ನಿಗದಿತ ಆಮದು ವಿಫಲವಾಗಿದೆ"
 "%operation_name - Scheduled Import Failed","%operation_name - ನಿಗದಿತ ಆಮದು ವಿಫಲವಾಗಿದೆ"
 "Error Email Sender","ದೋಷ ಮಿಂಚೆ ರವಾನೆದಾರ"
-Uses,ಬಳಸುತ್ತಿದೆ
 "Search Synonyms","ಪರ್ಯಾಯ ಪದಗಳನ್ನು ಹುಡುಕಿ"
 "Save Search","ಹುಡುಕಾಟ ಉಳಿಸಿ"
 "Delete Search","ಹುಡುಕಾಟ ಅಳಿಸಿ"
