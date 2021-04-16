@@ -216,6 +216,7 @@ Status,ಸ್ಥಿತಿ
 Error,ದೋಷ
 "Dismiss All Completed Tasks","ಪೂರ್ಣಗೊಂಡ ಎಲ್ಲಾ ಕೆಲಸಗಳನ್ನು ವಜಾಗೊಳಿಸಿ"
 "Action Details - #","ಕ್ರಿಯಗಳ ವಿವರ - #"
+"The role wasn't found for the user. Verify the role and try again.","ಬಳಕೆದಾರರಿಗೆ ಹುದ್ದೆ ಕಂಡುಬಂದಿಲ್ಲ. ಹುದ್ದೆಯನ್ನು ಪರಿಶೀಲಿಸಿ ಮತ್ತು ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ."
 "You created the order.","ನೀವು ವ್ಯಾಪಾರಾದೇಶ ರಚಿಸಿದ್ದೀರಿ."
 "Please choose a payment method.","ದಯವಿಟ್ಟು ಪಾವತಿ ವಿದಾನವನ್ನು ಆರಿಸಿ."
 "Credit Card: xxxx-%1","ಕ್ರೆಡಿಟ್ ಕಾರ್ಡ್: xxxx-%1"
@@ -465,8 +466,10 @@ City,ನಗರ
 "VAT Number","VAT ಸಂಖ್ಯೆ"
 "Maximum Width","ಗರಿಷ್ಟ ಅಗಲ"
 "Maximum Height","ಗರಿಷ್ಟ ಎತ್ತರ"
+Security,ಸುರಕ್ಷತೆ
 "Default Pages","ನಿಯೋಜಿತ ಪುಟಗಳು"
 Description,ವಿವರಣೆ
+Tags,ಟ್ಯಾಗ್‌ಗಳು
 "Community Edition","ಸಮುದಾಯ ಆವೃತ್ತಿ"
 "Default Theme","ನಿಯೋಜಿತ ಥೀಮ್"
 "Applied Theme","ಅನ್ವಯಿಸಿದ ಥೀಮ್"
@@ -532,23 +535,97 @@ Header,ತಲೆಬರಹ
 Visibility,ಗೋಚರತೆ
 "All Segments","ಎಲ್ಲಾ ವಲಯಗಳು"
 "Customer Segment","ಗ್ರಾಹಕರ ವಲಯ"
+"Allowed Credit Card Types","ಅನುಮತಿಸಿರುವ ಕ್ರೆಡಿಟ್ ಕಾರ್ಡ್ ವಿಧಗಳು"
 "Add Rule","ನಿಯಮ ಸೇರಿಸಿ"
+"Sorry, but something went wrong","ಕ್ಷಮಿಸಿ, ಆದರೆ ಏನೋ ತೊಂದರೆಯಾಗಿದೆ"
+"Transaction is successful.","ವಹಿವಾಟು ಯಶಸ್ವಿಯಾಗಿದೆ."
+Authorize,ದೃಢೀಕರಿಸಿ
 "Credit Card","ಕ್ರೆಡಿಟ್ ಕಾರ್ಡ್"
+ending,ಕೊನೆಯಾಗುವ
+expires,"ಕಾಲಾವಧಿಯ ಅಂತ್ಯ"
 PayPal,ಪೇಪಾಲ್
+"Transaction was failed.","ವಹಿವಾಟು ವಿಫಲವಾಗಿದೆ."
+"Credit Card Type","ಕ್ರೆಡಿಟ್ ಕಾರ್ಡ್ ವಿಧಗಳು"
 "Please, enter valid Credit Card Number","ದಯವಿಟ್ಟು ಸರಿಯಾದ ಕ್ರೆಡಿಟ್ ಕಾರ್ಡ್ ಸಂಖ್ಯೆಯನ್ನು ನಮೂದಿಸಿ"
 "Please, enter valid Card Verification Number","ದಯವಿಟ್ಟು ಸರಿಯಾದ ಕ್ರೆಡಿಟ್ ಕಾರ್ಡ್ ಪರಿಶೀಲನಾ ಸಂಖ್ಯೆಯನ್ನು ನಮೂದಿಸಿ"
+"Are you sure you want to delete this PayPal account","ಈ ಪೇಪಾಲ್ ಖಾತೆಯನ್ನು ನೀವು ಖಚಿತವಾಗಿಯೂ ಅಳಿಸಲು ಬಯಸುವಿರಾ"
 "PayPal Account","ಪೇಪಾಲ್ ಖಾತೆ"
 "PayPal Logo","ಪೇಪಾಲ್ ಲೋಗೊ"
 "Credit Card Information","ಕ್ರೆಡಿಟ್ ಕಾರ್ಡ್ ಮಾಹಿತಿ"
 "Save for later use.","ನಂತರದ ಬಳಕೆಗಾಗಿ ಉಳಿಸಿ."
 "This payment is not available","ಈ ಪಾವತಿ ಲಭ್ಯವಿಲ್ಲ"
 "Please try again with another form of payment.","ದಯವಿಟ್ಟು ಮತ್ತೊಂದು ಪಾವತಿ ವಿಧಾನದೊಂದಿಗೆ ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ."
+"Sorry, but something went wrong.","ಕ್ಷಮಿಸಿ, ಆದರೆ ಏನೋ ತೊಂದರೆಯಾಗಿದೆ."
 "Payment ","ಪಾವತಿ "
+"Merchant ID","ವರ್ತಕರ ಐಡಿ"
+"Merchant Account ID","ವರ್ತಕರ ಖಾತೆಯ ಐಡಿ"
+"CVV Verification","CVV ಪರಿಶೀಲನೆ"
+"Require Customer's Billing Address","ಗ್ರಾಹಕರ ಬಿಲ್ಲಿಂಗ್ ವಿಳಾಸ ಅಗತ್ಯವಿದೆ"
+"Display on Shopping Cart","ಶಾಪಿಂಗ್ ಬುಟ್ಟಿಯಲ್ಲಿ ಪ್ರದರ್ಶಿಸಿ"
+Phone,ದೂರವಾಣಿ
+"CVV is required.","CVV ಅಗತ್ಯವಿದೆ."
+"First name is too long.","ಮೊದಲ ಹೆಸರು ತುಂಬಾ ಉದ್ದವಿದೆ."
+"Last name is too long.","ಕೊನೆಯ ಹೆಸರು ತುಂಬಾ ಉದ್ದವಿದೆ."
+"Incomplete PayPal account information.","ಅಪೂರ್ಣವಾದ ಪೇಪಾಲ್ ಖಾತೆಯ ವಿವರ."
+"Invalid PayPal account information.","ಅಸಿಂಧುವಾದ ಪೇಪಾಲ್ ಖಾತೆಯ ವಿವರ."
+Select...,ಆರಿಸಿ...
+"Transaction Type","ವಹಿವಾಟಿನ ವಿಧ"
+"Payment Type","ಪಾವತಿ ವಿಧ"
+"PayPal Payment ID","ಪೇಪಾಲ್ ಪಾವತಿ ಐಡಿ"
+"Created At","ರಚಿಸಿದ ದಿನಾಂಕ"
+"Transaction ID","ವಹಿವಾಟಿನ ID"
+"Order ID","ವ್ಯಾಪಾರಾದೇಶ ID"
+Amount,ಮೊತ್ತ
+"Refund Ids","ಮರುಪಾವತಿ ಐಡಿಗಳು"
+Month,ತಿಂಗಳು
+Year,ವರ್ಷ
+"Stored Card","ಉಳಿಸಿದ ಕಾರ್ಡ್"
+"Credit card successfully added","ಕ್ರೆಡಿಟ್ ಕಾರ್ಡ್ ಅನ್ನು ಯಶಸ್ವಿಯಾಗಿ ಸೇರಿಸಲಾಗಿದೆ"
+"Something went wrong while saving the card.","ಕಾರ್ಡ್ ಅನ್ನು ಉಳಿಸುವಲ್ಲಿ ಏನೋ ತೊಂದರೆಯಾಗಿದೆ."
+"Credit card does not exist","ಕ್ರೆಡಿಟ್ ಕಾರ್ಡ್ ಅಸ್ತಿತ್ವದಲ್ಲಿಲ್ಲ"
+"Delete Credit Card","ಕ್ರೆಡಿಟ್ ಕಾರ್ಡ್ ಅಳಿಸಿ"
+"Credit card successfully deleted","ಕ್ರೆಡಿಟ್ ಕಾರ್ಡ್ ಅನ್ನು ಯಶಸ್ವಿಯಾಗಿ ಅಳಿಸಲಾಗಿದೆ"
+"Edit Credit Card","ಕ್ರೆಡಿಟ್ ಕಾರ್ಡ್ ಸಂಪಾದಿಸಿ"
+"My Credit Cards","ನನ್ನ ಕ್ರೆಡಿಟ್ ಕಾರ್ಡ್ಗಳು"
+"New Credit Card","ಹೊಸ ಕ್ರೆಡಿಟ್ ಕಾರ್ಡ್"
+"Transaction declined: ","ವಹಿವಾಟನ್ನು ನಿರಾಕರಿಸಲಾಗಿದೆ: "
+"Incomplete payment information.","ಅಪೂರ್ಣವಾದ ಪಾವತಿಯ ವಿವರ."
+"Please try again later","ದಯವಿಟ್ಟು ಇನ್ನೊಮ್ಮೆ ಪ್ರಯತ್ನಿಸಿ"
+Shipment,ರವಾನೆ
+"some error","ಒಂದು ದೋಷ"
+error,ದೋಷ
+exception,ವಿನಾಯಿತಿ
+"Payment Information","ಪಾವತಿ ಮಾಹಿತಿ"
+"Add new card","ಹೊಸ ಕಾರ್ಡ್ ಸೇರಿಸಿ"
+"Save this card for future use","ಮುಂದಿನ ದಿನಗಳ ಬಳಕೆಗೆಗಾಗಿ ಈ ಕಾರ್ಡ್ ಅನ್ನು ಉಳಿಸಿ"
+or,ಅಥವಾ
+"Cardholder Name","ಕಾರ್ಡುದಾರನ ಹೆಸರು"
+"* Required Fields","* ಅಗತ್ಯವಿರುವ ವಿವರಗಳು"
+"Billing Address","ಬಿಲ್ಲಿಂಗ್ ವಿಳಾಸ"
+Company,ಸಂಸ್ಠೆ
+Address,ವಿಳಾಸ
+State/Province,ರಾಜ್ಯ
+"Zip/Postal Code","ಪಿನ್ ಕೋಡ್"
+"Add Credit Card","ಕ್ರೆಡಿಟ್ ಕಾರ್ಡ್ ಸೇರಿಸಿ"
+"Card Number","ಕಾರ್ಡ್ ಸಂಖ್ಯೆ"
+"Is Default",ಪೂರ್ವನಿಯೋಜಿತ
+"Edit My Credit Cards","ನನ್ನ ಕ್ರೆಡಿಟ್ ಕಾರ್ಡ್ ಸಂಪಾದಿಸಿ"
+"Pay with PayPal","ಪೇ ಪಾಲ್ ಮೂಲಕ ಪಾವತಿಸಿ"
+"Paypal account","ಪೇಪಾಲ್ ಖಾತೆ"
+"Credit card","ಕ್ರೆಡಿಟ್ ಕಾರ್ಡ್"
+"Apple pay card","ಆಪಲ್ ಪಾವತಿ ಕಾರ್ಡ್"
+"Android pay card","ಆಂಡ್ರಾಯಿಡ್ ಪಾವತಿ ಕಾರ್ಡ್"
+Authorizing,ದೃಢೀಕರಿಸಲಾಗುತ್ತಿದೆ
+Authorized,ದೃಢೀಕರಿಸಿದೆ
+Failed,ವಿಫಲಗೊಂಡಿದೆ
+Sale,ವ್ಯಾಪಾರ
+Credit,ಜಮಾ
 "Percent Discount","ಶೇಕಡಾ ರಿಯಾಯಿತಿ"
 "-- Select --","-- ಆರಿಸಿ --"
 Dynamic,ಕ್ರಿಯಾಶೀಲ
 Fixed,ಸ್ಥಿರ
 "Create New Option","ಹೊಸ ಆಯ್ಕೆಯನ್ನು ರಚಿಸಿ"
+"Add Products to Option","ಆಯ್ಕೆಗೆ ಉತ್ಪನ್ನಗಳನ್ನು ಸೇರಿಸಿ"
 "Delete Option","ಆಯ್ಕೆಯನ್ನು ಅಳಿಸಿ"
 "What are you looking for?","ನೀವು ಏನನ್ನು ಹುಡುಕುತಿದ್ದೀರಿ?"
 "Price Range","ಬೆಲೆಯ ಶ್ರೇಣಿ"
@@ -562,22 +639,28 @@ Percent,ಶೇಕಡ
 "New Option","ಹೊಸ ಆಯ್ಕೆ"
 "Option Title","ಆಯ್ಕೆಯ ಶೀರ್ಷಿಕೆ"
 "Default Title","ನಿಯೋಜಿತ ಶೀರ್ಷಿಕೆ"
+"Store View Title","ಮಳಿಗೆ ನೋಟದ ಶೀರ್ಶಿಕೆ"
 "Input Type","ಇನ್ಪುಟ್ ವಿಧ"
 "Radio Buttons","ರೇಡಿಯೊ ಗುಂಡಿಗಳು"
 "Multiple Select",ಬಹುಆಯ್ಕೆ
 Required,ಅಗತ್ಯವಿದೆ
 "Price Type","ದರದ ವಿಧ"
 Quantity:,ಪರಿಮಾಣ:
+"Choose a selection...","ಒಂದು ಆಯ್ಕೆಯನ್ನು ಆರಿಸಿ..."
 Default,ಪೂರ್ವನಿಯೋಜಿತ
+Ordered,ವ್ಯಾಪಾರಾದೇಸಿದ
+Shipped,ರವಾನಿಸಿದ
+Refunded,ಮರುಪಾವತಿಸಿದ
 Canceled,ರದ್ದುಪಡಿಸಲಾದ
 "Regular Price","ಸಾಮಾನ್ಯ ಬೆಲೆ"
 "As low as","ಅತಿ ಕಡಿಮೆ"
 "Go back to product details","ಉತ್ಪನ್ನದ ವಿವರಗಳಿಗೆ ಹಿಂದಿರುಗಿ"
-"* Required Fields","* ಅಗತ್ಯವಿರುವ ವಿವರಗಳು"
+"Your Customization","ನಿಮ್ಮ ಒಗ್ಗಿಸಿಕೆ"
 Availability,ಲಭ್ಯತೆ
 "In stock",ದಾಸ್ತಾನಿನಲ್ಲಿದೆ
 "Out of stock",ದಾಸ್ತಾನಿನಲ್ಲಿಲ್ಲ
 Availability:,ಲಭ್ಯತೆ:
+"Customize %1","%1 ಒಗ್ಗಿಸಿ"
 "Gift Message","ಕೊಡುಗೆ ಸಂದೇಶ"
 From:,ಇಂದ:
 To:,ಗೆ:
@@ -585,7 +668,9 @@ Message:,ಸಂದೇಶ:
 "Product Name","ಉತ್ಪನ್ನದ ಹೆಸರು"
 "Discount Amount","ರಿಯಾಯಿತಿ ಮೊತ್ತ"
 "Row Total","ಸಾಲಿನ ಮೊತ್ತ"
-Select...,ಆರಿಸಿ...
+"Qty Shipped","ರವಾನಿಸಿದ ಪರಿಮಾಣ"
+"Add Products to New Option","ಹೊಸ ಆಯ್ಕೆಗೆ ಉತ್ಪನ್ನಗಳನ್ನು ಸೇರಿಸಿ"
+"Add Products to Option ""%1""","ಆಯ್ಕೆ ""%1"" ಕ್ಕೆ ಉತ್ಪನ್ನಗಳನ್ನು ಸೇರಿಸಿ"
 "Special Price","ವಿಶೇಷ ಬೆಲೆ"
 """sku"" value should be specified","""sku"" ನಮೂದನ್ನು ಸೂಚಿಸಲೇ ಬೇಕು"
 Always,ಯಾವಾಗಲೂ
@@ -604,8 +689,6 @@ Root,ಮೂಲ
 "Add Subcategory","ಉಪವಿಭಾಗ ಸೇರಿಸಿ"
 "Add Root Category","ಮೂಲ ವಿಭಾಗವನ್ನು ಸೇರಿಸಿ"
 Day,ದಿನ
-Month,ತಿಂಗಳು
-Year,ವರ್ಷ
 from,ಇಂದ
 to,ಗೆ
 "WYSIWYG Editor","WYSIWYG ಸಂಪಾದಕ"
@@ -1091,6 +1174,14 @@ Promo,ಜಾಹೀರಾತು
 Priority,ಆದ್ಯತೆ
 "Discard subsequent rules","ಆನಂತರದ ನಿಯಮಗಳನ್ನು ತೆಗೆದುಹಾಕಿ"
 "End Time","ಅಂತ್ಯದ ಸಮಯ"
+"Advanced Search Results","ಸುಧಾರಿತ ಹುಡುಕಾಟದ ಫಲಿತಾಂಶಗಳು"
+"Search results for: '%1'","ಹುಡುಕಾಟದ ಫಲಿತಾಂಶಗಳು: '%1'"
+"%1 and greater","%1 ಮತ್ತು ಹೆಚ್ಚಿನ"
+"up to %1","%1 ರ ವರೆಗೆ"
+"Search Settings","ಹುಡುಕಾಟದ ಸಿದ್ದತೆಗಳು"
+"Please enter a valid price range.","ದಯವಿಟ್ಟು ಸರಿಯಾದ ಬೆಲೆ ಶ್ರೇಣಿಯನ್ನು ನಮೂದಿಸಿ."
+"Advanced Search","ಸುಧಾರಿತ ಹುಡುಕಾಟ"
+"Your search returned no results.","ನಿಮ್ಮ ಹುಡುಕಾಟ ಯಾವುದೇ ಫಲಿತಾಂಶಗಳನ್ನು ನೀಡಿಲ್ಲ."
 "The requested price is not found.","ವಿನಂತಿಸಿದ ದರವು ಕಂಡುಬಂದಿಲ್ಲ."
 View/Edit,ವೀಕ್ಷಿಸಿ/ಸಂಪಾದಿಸಿ
 Preview,ಮುನ್ನೋಟ
@@ -1105,8 +1196,6 @@ Path,ಪಥ
 "Conditions Combination","ನಿಯಮಗಳ ಸಂಯೋಜನೆ"
 "List of Products","ಉತ್ಪನ್ನಗಳ ಪಟ್ಟಿ"
 "Invalid method: %1","ಅಸಿಂಧುವಾದ ವಿಧಾನ: %1"
-State/Province,ರಾಜ್ಯ
-"Zip/Postal Code","ಪಿನ್ ಕೋಡ್"
 "My Cart (1 item)","ನನ್ನ ಶಾಪಿಂಗ್ ಬುಟ್ಟಿ(1 item)"
 "My Cart (%1 items)","ನನ್ನ ಶಾಪಿಂಗ್ ಬುಟ್ಟಿ (%1 items)"
 "My Cart","ನನ್ನ ಶಾಪಿಂಗ್ ಬುಟ್ಟಿ"
@@ -1198,7 +1287,6 @@ Total:,"ಒಟ್ಟು ಮೊತ್ತ:"
 "My billing and shipping address are the same","ನನ್ನ ಬಿಲ್ಲಿಂಗ್ ಮತ್ತು ರವಾನೆ ವಿಳಾಸಗಳು ಒಂದೇ ಆಗಿವೆ"
 Update,ಪರಿಷ್ಕರಿಸಿ
 "Save in address book","ವಿಳಾಸಪಟ್ಟಿಯಲ್ಲಿ ಉಳಿಸಿ"
-"Billing Address","ಬಿಲ್ಲಿಂಗ್ ವಿಳಾಸ"
 "Estimated Total","ಅಂದಾಜು ಮೊತ್ತ"
 "You can create an account after checkout.","ನೀವು ಚೆಕೌಟ್ ಆದ ನಂತರ ಖಾತೆಯೊಂದನ್ನು ರಚಿಸಬಹುದು."
 "You already have an account with us. Sign in or continue as guest.","ನೀವು ನಮ್ಮ ಬಳಿ ಈಗಾಗಲೇ ಖಾತೆಯನ್ನು ಹೊಂದಿದ್ದೀರಿ. ಸೈನ್ ಇನ್ ಮಾಡಿ ಅಥವಾ ಅತಿಥಿ ಯಂತೆ ಮುಂದುವರೆಯಿರಿ."
@@ -1212,7 +1300,6 @@ of,ನಲ್ಲಿ
 "Options Details","ಆಯ್ಕೆಗಳ ವಿವರ"
 "Cart Subtotal","ಶಾಪಿಂಗ್ ಬುಟ್ಟಿ ಉಪಮೊತ್ತ"
 "No Payment Methods","ಪಾವತಿ ವಿಧಾನಗಳಿಲ್ಲ"
-"Payment Information","ಪಾವತಿ ಮಾಹಿತಿ"
 "No Payment method available.","ಪಾವತಿ ವಿಧಾನಗಳು ಲಭ್ಯವಿಲ್ಲ."
 "You can track your order status by creating an account.","ನೀವು ಖಾತೆಯನ್ನು ರಚಿಸುವ ಮೂಲಕ ನಿಮ್ಮ ವ್ಯಾಪಾರಾದೇಶದ ಸ್ಠಿತಿಯನ್ನು ಅನುಸರಿಸಬಹುದು."
 "Create an Account","ಖಾತೆಯೊಂದನ್ನು ರಚಿಸಿ"
@@ -1297,6 +1384,7 @@ Automatically,ಸ್ವಯಂಚಾಲಿತವಾಗಿ
 "Delete Page","ಪುಟವನ್ನು ಅಳಿಸಿ"
 Created,ರಚಿಸಿದೆ
 Modified,ಮಾರ್ಪಡಿಸಲಾಗಿದೆ
+"Media Storage","ಮಾಧ್ಯಮ ಸಂಗ್ರಹಣೆ"
 "Delete Folder","ಫೋಲ್ಡರ್ ಅಳಿಸಿ"
 "Delete Selected","ಆರಿಸಿದುದನ್ನು ಅಳಿಸಿ"
 "Create Folder","ಫೋಲ್ಡರ್ ರಚಿಸಿ"
@@ -1304,6 +1392,7 @@ Modified,ಮಾರ್ಪಡಿಸಲಾಗಿದೆ
 "Are you sure you want to delete this folder?","ನೀವು ಈ ಕಡತಕೋಶವನ್ನು ಖಚಿತವಾಗಿಯೂ ಅಳಿಸಬಯಸುವಿರಾ?"
 "Are you sure you want to delete this file?","ನೀವು ಈ ಕಡತವನ್ನು ಖಚಿತವಾಗಿಯೂ ಅಳಿಸಬಯಸುವಿರಾ?"
 "Images (%1)",ಚಿತ್ರಗಳು(%1)
+"Storage Root","ಸಂಗ್ರಹಣಾ ಮೂಲ"
 "You deleted the block.","ನೀವು ಬ್ಲಾಕ್ ಅನ್ನು ಅಳಿಸಿದ್ದೀರಿ."
 "This block no longer exists.","ಈ ಬ್ಲಾಕ್ ಈಗ ಅಸ್ತಿತ್ವದಲ್ಲಿರುವುದಿಲ್ಲ."
 "Edit Block","ಬ್ಲಾಕ್ ಅನ್ನು ಸಂಪಾದಿಸಿ"
@@ -1331,6 +1420,7 @@ Pages,ಪುಟಗಳು
 "The CMS page with the ""%1"" ID doesn't exist.","""%1"" ID ಜೊತೆಗಿನ CMS ಪುಟ ಅಸ್ತಿತ್ವದಲ್ಲಿಲ್ಲ."
 "Could not save the page: %1","ಪುಟ %1 ಅನ್ನು ಉಳಿಸಲಾಗಲಿಲ್ಲ"
 "Could not delete the page: %1","ಪುಟ %1 ಅನ್ನು ಅಳಿಸಲಾಗಲಿಲ್ಲ"
+"Privacy and Cookie Policy","ಗೌಪ್ಯತೆ ಮತ್ತು ಕುಕೀ ನಿಬಂಧನೆಗಳು"
 "Error message","ದೋಷದ ಸಂದೇಶ"
 "Oh no. That isn't right.","ಅಯ್ಯೋ ಇಲ್ಲ. ಅದು ಸರಿಯಲ್ಲ."
 "Invalid format","ಅಸಿಂಧುವಾದ ಮಾದರಿ"
@@ -1371,6 +1461,7 @@ Companies,ಸಂಸ್ಥೆಗಳು
 "Company Name:","ಸಂಸ್ಥೆಯ ಹೆಸರು:"
 "Company Legal Name:","ಸಂಸ್ಥೆಯ ಕಾನೂನುಬದ್ಧ ಹೆಸರು:"
 "Company Email:","ಸಂಸ್ಥೆಯ ಮಿಂಚೆ:"
+"Re-seller ID:","ಮರುಮಾರಾಟಗಾರರ ಐಡಿ:"
 "Street Address:","ಬೀದಿ ವಿಳಾಸ:"
 City:,ನಗರ:
 Country:,ದೇಶ:
@@ -1386,10 +1477,13 @@ Prefix:,ಪೂರ್ವಪ್ರತ್ಯಯ:
 Suffix:,"ಅಂತ್ಯ ಪ್ರತ್ಯಯ:"
 Gender:,ಲಿಂಗ:
 Duplicated,ನಕಲಿಸಿದೆ
+"Company Structure","ಸಂಸ್ಥೆಯ ರಚನೆ"
 "New Company","ಹೊಸ ಸಂಸ್ಥೆ"
+"Thank you! We're reviewing your request and will contact you soon","ಧನ್ಯವಾದಗಳು! ನಾವು ನಿಮ್ಮ ವಿನಂತಿಯನ್ನು ಪರಿಶೀಲಿಸುತ್ತಿದ್ದೇವೆ ಮತ್ತು ಶೀಘ್ರದಲ್ಲಿ ನಿಮ್ಮನ್ನು ಸಂಪರ್ಕಿಸುತ್ತೇವೆ"
 "Create New Company","ಹೊಸ ಸಂಸ್ಥೆಯನ್ನು ರಚಿಸಿ"
 "A total of %1 record(s) were updated.","ಒಟ್ಟು %1 ದಾಖಲೆ(ಗಳು) ಯನ್ನು ಪರಿಷ್ಕರಿಸಲಾಗಿದೆ."
 "Something went wrong. Please try again later.","ಏನೋ ದೋಷವುಂಟಾಗಿದೆ. ದಯವಿಟ್ಟು ನಂತರ ಮತ್ತೊಮ್ಮೆ ಪ್ರಯತ್ನಿಸಿ."
+"You have deleted company %companyName.","ನೀವು %ccompanyName ಸಂಸ್ಥೆಯನ್ನು ಅಳಿಸಿದ್ದೀರಿ."
 "The company no longer exists.","ಸಂಸ್ಥೆಯು ಅಸ್ತಿತ್ವದಲ್ಲಿಲ್ಲ."
 "The requested company is not found","ವಿನಂತಿಸಿದ ಸಂಸ್ಥೆಯು ಕಂಡುಬಂದಿಲ್ಲ"
 "can not be saved",ಉಳಿಸಲಾಗುವುದಿಲ್ಲ
@@ -1409,55 +1503,81 @@ Duplicated,ನಕಲಿಸಿದೆ
 "Company Profile","ಸಂಸ್ಥೆಯ ಕಿರುಪರಿಚಯ"
 "You must fill in all required fields before you can continue.","ನೀವು ಮುಂದುವರೆಯುವ ಮುನ್ನ ನೀವು ಇಲ್ಲಾ ಅಗತ್ಯವಿರುವ ವಿವರಗಳನ್ನು ನಮೂದಿಸಲೇಬೇಕು."
 "Bad Request","ಕೆಟ್ಟ ವಿನಂತಿ"
+"You have deleted role %companyRoleName.","ನೀವು %ccompanyName ಹುದ್ದೆಯನ್ನು ಅಳಿಸಿದ್ದೀರಿ."
+"Add New Role","ಹೊಸ ಹುದ್ದೆಯನ್ನು ಸೇರಿಸಿ"
+"Edit Role","ಹುದ್ದೆಯನ್ನು ಸಂಪಾದಿಸಿ"
+"Roles and Permissions","ಹುದ್ದೆಗಳು ಮತ್ತು ಅನುಮತಿಗಳು"
 "The item was successfully moved.","ತಂಡವನ್ನು ಯಶಸ್ವಿಯಾಗಿ ಸರಿಸಲಾಗಿದೆ."
 "The team was successfully deleted.","ತಂಡವನ್ನು ಯಶಸ್ವಿಯಾಗಿ ಅಳಿಸಲಾಗಿದೆ."
 "The team was successfully updated.","ತಂಡವನ್ನು ಯಶಸ್ವಿಯಾಗಿ ಪರಿಷ್ಕರಿಸಲಾಗಿದೆ."
 "The team was successfully created.","ತಂಡವನ್ನು ಯಶಸ್ವಿಯಾಗಿ ರಚಿಸಲಾಗಿದೆ."
 "Company Users","ಸಂಸ್ಥೆಯ ಬಳಕೆದಾರರು"
 "A customer with the same email already assigned to company.","ಇದೇ ಮಿಂಚೆಯಿಂದ ಗ್ರಾಹಕರೊಬ್ಬರು ಸಂಸ್ಥೆಗೆ ನಿಯೋಜನೆಗೊಂಡಿದ್ದಾರೆ."
+"Pending Approval","ಬಾಕಿಯಿರುವ ಅನುಮೋದನೆ"
 Rejected,ನಿರಾಕರಿಸಲಾಗಿದೆ
 Blocked,ನಿರ್ಬಂಧಿಸಲಾಗಿದೆ
+"Cannot delete company with id %1","%1 ಐಡಿ ಜೊತೆಗಿನ ಸಂಸ್ಥೆಯನ್ನು ಅಳಿಸಲಾಗುವುದಿಲ್ಲ"
+"Company admin","ಸಂಸ್ಥೆಯ ನಿರ್ವಾಹಕ"
 "Company user","ಸಂಸ್ಥೆಯ ಬಳಕೆದಾರರು"
 "Individual user","ಅಸಿಂಧುವಾದ ಬಳಕೆದಾರರು"
+"""%fieldName"" is required. Enter and try again.","""%fieldName"" ಅಗತ್ಯವಿದೆ. ನಮೂದಿನ ಮತ್ತು ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ."
+"Cannot delete role with id %1","%1 ಐಡಿ ಜೊತೆಗಿನ ಹುದ್ದೆಯನ್ನು ಅಳಿಸಲಾಗುವುದಿಲ್ಲ"
 "Could not save company: %1","ಸಂಸ್ಥೆ %1 ಅನ್ನು ಉಳಿಸಲಾಗಲಿಲ್ಲ"
 "Could not create team","ತಂಡವನ್ನು ರಚಿಸಲಾಗಲಿಲ್ಲ"
 "Could not update team","ತಂಡವನ್ನು ಪರಿಷ್ಕರಿಸಲಾಗಲಿಲ್ಲ"
 "Cannot delete team with id %1","%1 ಐಡಿ ಜೊತೆಗಿನ ತಂಡವನ್ನು ಅಳಿಸಲಾಗುವುದಿಲ್ಲ"
+"You cannot assign multiple roles to a user.","ನೀವು ಬಳಕೆದಾರರೊಬ್ಬರಿಗೆ ಬಹು ಹುದ್ದೆಗಳನ್ನು ಅನ್ವಯಿಸಲಾಗುವುದಿಲ್ಲ."
 "Invalid login or password.","ಅಸಿಂಧುವಾದ ಲಾಗಿನ್ ಅಥವಾ ಗುಪ್ತಪದ."
 "This account is locked.","ಖಾತೆಯನ್ನು ನಿರ್ಬಂಧಿಸಲಾಗಿದೆ."
 "Something went wrong","ಏನೋ ತೊಂದರೆಯಾಗಿದೆ"
 " - Duplicated"," ನಕಲಿಸಿದೆ"
 "Exception message","Exception ಸಂದೇಶ"
 test,ಪರೀಕ್ಷೆ
-exception,ವಿನಾಯಿತಿ
 "error message","ದೋಷದ ಸಂದೇಶ"
+"Could not save role","ಹುದ್ದೆಯನ್ನು ಉಳಿಸಲಾಗಲಿಲ್ಲ"
 "Cannot delete team","ತಂಡವನ್ನು ಅಳಿಸಲಾಗುವುದಿಲ್ಲ"
+"Role Name","ಹುದ್ದೆಯ ಹೆಸರು"
+"Role Name 15","ಹುದ್ದೆಯ ಹೆಸರು 15"
 Duplicate,ನಕಲಿಸಿ
 "Company Name","ಸಂಸ್ಥೆಯ ಹೆಸರು"
+"Customer Type:","ಗ್ರಾಹಕರ ವಿಧ:"
 Company:,ಸಂಸ್ಠೆ:
+"User Role","ಬಳಕೆದಾರರ ಹುದ್ದೆ"
+"User Roles","ಬಳಕೆದಾರರ ಹುದ್ದೆಗಳು"
 "Company Information","ಸಂಸ್ಥೆಯ ಮಾಹಿತಿ"
 "Company Legal Name","ಸಂಸ್ಥೆಯ ಕಾನೂನುಬದ್ಧ ಹೆಸರು"
 "Company Email","ಸಂಸ್ಥೆಯ ಮಿಂಚೆ"
+"Re-seller ID","ಮರುಮಾರಾಟಗಾರರ ಐಡಿ"
 "Legal Address","ಕಾನೂನಾತ್ಮಕ ವಿಳಾಸ"
 "Phone Number","ದೂರವಾಣಿ ಸಂಖ್ಯೆ"
+"Company Administrator","ಸಂಸ್ಥೆಯ ಆಡಳಿತಾಧಿಕಾರಿ"
 "Job Title","ಹುದ್ದೆಯ ಹೆಸರು"
 "New Company Account","ಸಂಸ್ಥೆಯ ಹೊಸ ಖಾತೆ"
 "Create a Company Account","ಸಂಸ್ಥೆಯ ಖಾತೆಯೊಂದನ್ನು ರಚಿಸಿ"
+"Business Structure","ಉದ್ಯಮದ ಸ್ವರೂಪ"
 "Add User","ಬಳಕೆದಾರರನ್ನು ಸೇರಿಸಿ"
 "Add Team","ತಂಡವನ್ನು ಸೇರಿಸಿ"
 "Edit Selected","ಆರಿಸಿದುದನ್ನು ಸಂಪಾದಿಸಿ"
 "Team Title","ತಂಡದ ಶೀರ್ಷಿಕೆ"
+"You don't have a company account yet.","ನೀವು ಸಂಸ್ಥೆಯ ಖಾತೆಯನ್ನು ಇನ್ನೂ ಹೊಂದಿಲ್ಲ."
+"Re-seller ID: ","ಮರುಮಾರಾಟಗಾರರ ಐಡಿ: "
 "You have no other address entries in your address book.","ನಿಮ್ಮ ವಿಳಾಸಪಟ್ಟಿಯಲ್ಲಿ ಇನ್ಯಾವುದೇ ವಿಳಾಸದ ನಮೂದುಗಳಿಲ್ಲ."
 Contacts,ಸಂಪರ್ಕಗಳು
+"Sales Representative","ಮಾರಾಟ ಪ್ರತಿನಿಧಿ"
+"Role Information","ಹುದ್ದೆಯ ಮಾಹಿತಿ"
+"Role Permissions","ಹುದ್ದೆಯ ಅನುಮತಿಗಳು"
+"Save Role","ಹುದ್ದೆಯನ್ನು ಉಳಿಸಿ"
 "Add New User","ಹೊಸ ಬಳಕೆದಾರರನ್ನು ಸೇರಿಸಿ"
-Company,ಸಂಸ್ಠೆ
 "Dear %name,","ಪ್ರಿಯ %name,"
+"When you sign in to your account, you can:","ನೀವು ನಿಮ್ಮ ಖಾತೆಗೆ ಪ್ರವೇಶಿಸಿದಾಗ, ನಿಮಗೆ ಇದೆಲ್ಲವೂ ಸಾಧ್ಯ:"
+"You've been linked to a company","ನಿಮ್ಮನ್ನು ಸಂಸ್ಥೆಯೊಂದಕ್ಕೆ ಹೊಂದಿಸಲಾಗಿದೆ"
 "A company has invited you to join","ಸಂಸ್ಥೆಯೊಂದು ನಿಮಗೆ ಸೇರಿಕೊಳ್ಳಲು ಆಹ್ವಾನಿಸಿದೆ"
 "Dear %firstname","ಪ್ರಿಯ %firstname"
 "Your account is now active","ನಿಮ್ಮ ಖಾತೆ ಈಗ ಸಕ್ರಿಯವಾಗಿದೆ"
 "Your account is now active. You can use it to login to the <a href=""%customer_url"">website</a>.","ನಿಮ್ಮ ಖಾತೆ ಈಗ ಸಕ್ರಿಯವಾಗಿದೆ. ನೀವು ಇದನ್ನು <a href=""%customer_url"">ಜಾಲತಾಣ</a> ಕ್ಕೆ ಲಾಗಿನ್ ಆಗಲು ಬಳಸಬಹುದು."
 "Your account is locked","ನಿಮ್ಮ ಖಾತೆಯನ್ನು ನಿರ್ಬಂಧಿಸಲಾಗಿದೆ"
 "Your account is no longer active. You will not be able to use it for login.","ನಿಮ್ಮ ಖಾತೆ ಈಗ ನಿಷ್ಕ್ರಿಯವಾಗಿದೆ. ನೀವು ಇದನ್ನು ಲಾಗಿನ್ ಆಗಲು ಬಳಸಲು ಆಗುವುದಿಲ್ಲ."
+"Your account set inactive","ನಿಮ್ಮ ಖಾತೆ ಈಗ ನಿಷ್ಕ್ರಿಯವಾಗಿದೆ"
 "New company registration request","ಸಂಸ್ಥೆ ನೋಂದಣಿಯ ಹೊಸ ವಿನಂತಿ"
 "Company: %company","ಸಂಸ್ಥೆ: %company"
 "Your company account is active","ನಿಮ್ಮ ಸಂಸ್ಥೆಯ ಖಾತೆ ಸಕ್ರಿಯವಾಗಿದೆ"
@@ -1469,37 +1589,52 @@ Company,ಸಂಸ್ಠೆ
 "Show Inactive Users","ನಿಷ್ಕ್ರಿಯ ಬಳಕೆದಾರರನ್ನು ಪ್ರದರ್ಶಿಸಿ"
 "Show All Users","ಎಲ್ಲಾ ಬಳಕೆದಾರರನ್ನು ಪ್ರದರ್ಶಿಸಿ"
 "Delete a Company?","ಸಂಸ್ಥೆಯನ್ನು ಅಳಿಸಿ?"
+"Cannot Delete the Company Admin","ಸಂಸ್ಥೆಯ ಆಡಳಿತಾಧಿಕಾರಿಯನ್ನು ಅಳಿಸಲಾಗುವುದಿಲ್ಲ"
 "No results","ಯಾವುದೇ ಫಲಿತಾಂಶಗಳಿಲ್ಲ"
 Proceed,ಮುಂದುವರೆಯಿರಿ
 "Change Company Status?","ಸಂಸ್ಥೆಯ ಸ್ಥಿತಿಯನ್ನು ಬದಲಿಸಿ?"
 "Cannot delete the user","ಈ ಬಳಕೆದಾರರನ್ನು ಅಳಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ"
+"This user cannot be deleted because he/she is a company admin.","ಈ ಬಳಕೆದಾರರನ್ನು ಅಳಿಸಲಾಗುವುದಿಲ್ಲ, ಏಕೆಂದರೆ ಅವನು/ಅವಳು ಸಂಸ್ಥೆಯ ಆಡಳಿತಾಧಿಕಾರಿ."
 "Edit User","ಬಳಕೆದಾರರನ್ನು ಸಂಪಾದಿಸಿ"
 "Cannot Delete User","ಈ ಬಳಕೆದಾರರನ್ನು ಅಳಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ"
 "Delete this user?","ಈ ಬಳಕೆದಾರರನ್ನು ಅಳಿಸುವುದೇ?"
 "Edit Team","ತಂಡವನ್ನು ಸಂಪಾದಿಸಿ"
 "Cannot Delete This Team","ಈ ತಂಡವನ್ನು ಅಳಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ"
 "Delete this team?","ಈ ತಂಡವನ್ನು ಅಳಿಸುವುದೇ?"
+"Delete This Role?","ಈ ಹುದ್ದೆಯನ್ನು ಅಳಿಸುವುದೇ?"
+"Cannot Delete Role","ಹುದ್ದೆಯನ್ನು ಅಳಿಸಲಾಗುವುದಿಲ್ಲ"
 "Cannot Delete Customer","ಬಳಕೆದಾರರನ್ನು ಅಳಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ"
+"Set as Inactive",ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಿ
 "Manage Companies","ಸಂಸ್ಥೆಗಳನ್ನು ನಿರ್ವಹಿಸಿ"
+"Company Configuration Section","ಸಂಸ್ಥೆಯ ಸಂರಚನೆ ವಿಭಾಗ"
 "Enable Company","ಸಂಸ್ಥೆಯನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ"
 "Company Configuration","ಸಂಸ್ಥೆಯ ಸಂರಚನೆ"
 "Email Options - Company Registration","ಮಿಂಚೆ ಆಯ್ಕೆಗಳು - ಸಂಸ್ಥೆಯ ನೋಂದಣಿ"
 Comma-separated,ಕಾಮಾ-ವಿಭಜಿತ
+"Customer-Related Emails","ಗ್ರಾಹಕ-ಸಂಬಂಧಿತ ಮಿಂಚೆಗಳು"
 "This email is sent to the customer only.","ಈ ಮಿಂಚೆಯನ್ನು ಗ್ರಾಹಕರಿಗೆ ಮಾತ್ರ ಕಳುಹಿಸಲಾಗುವುದು."
 "Company Status Change","ಸಂಸ್ಥೆಯ ಸ್ಥಿತಿ ಬದಲಾವಣೆ"
 "Account Information (View)","ಖಾತೆಯ ಮಾಹಿತಿ (ವೀಕ್ಷಿಸಿ)"
 "Legal Address (View)","ಕಾನೂನಾತ್ಮಕ ವಿಳಾಸ (ನೋಟ)"
 "Contacts (View)","ಸಂಪರ್ಕಗಳು (ವೀಕ್ಷಿಸಿ)"
 "Company User Management","ಸಂಸ್ಥೆಯ ಬಳಕೆದಾರರ ನಿರ್ವಹಣೆ"
+"View roles and permissions","ಹುದ್ದೆ ಮತ್ತು ಅನುಮತಿಗಳನ್ನು ವೀಕ್ಷಿಸಿ"
+"Manage roles and permissions","ಹುದ್ದೆ ಮತ್ತು ಅನುಮತಿಗಳನ್ನು ನಿರ್ವಹಿಸಿ"
 "View users and teams","ಬಳಕೆದಾರರು ಮತ್ತು ತಂಡಗಳನ್ನು ವೀಕ್ಷಿಸಿ"
 "Manage users and teams","ಬಳಕೆದಾರರು ಮತ್ತು ತಂಡಗಳನ್ನು ನಿರ್ವಹಿಸಿ"
+Sales,ವ್ಯಾಪಾರಗಳು
 "Allow Checkout","ಚೆಕೌಟ್ ಅನುಮತಿಸಿ"
 "View orders","ವ್ಯಾಪಾರಾದೇಶ ವೀಕ್ಷಿಸಿ"
+"Set a Company as Active","ಸಂಸ್ಥೆ ಸಕ್ರಿಯವಾಗಿರುವಂತೆ ಹೊಂದಿಸಿ"
+"Set Active",ಸಕ್ರಿಯಗೊಳಿಸಿ
 "Block a Company","ಸಂಸ್ಥೆಯೊಂದನ್ನು ನಿರ್ಬಂಧಿಸಿ"
 Block,ನಿರ್ಬಂಧಿಸಿ
+"Reseller ID","ಮರುಮಾರಾಟಗಾರರ ಐಡಿ"
 Comment,ಅಭಿಪ್ರಾಯ
 ZIP,"ಪಿನ್ ಕೋಡ್"
+"Company Admin","ಸಂಸ್ಥೆಯ ನಿರ್ವಾಹಕ"
 Gender,ಲಿಂಗ
+"Set Inactive",ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಿ
 "Customer Type","ಗ್ರಾಹಕರ ವಿಧ"
 "Please specify the reason","ದಯವಿಟ್ಟು ಕಾರಣವನ್ನು ಸೂಚಿಸಿ"
 "Reason for Rejection","ನಿರಾಕರಣೆಗೆ ಕಾರಣ"
@@ -1508,6 +1643,7 @@ Prefix,ಪೂರ್ವಪ್ರತ್ಯಯ
 Suffix,"ಅಂತ್ಯ ಪ್ರತ್ಯಯ"
 "Send Welcome Email From","ಇದರಿಂದ ಸ್ವಾಗತ ಮಿಂಚೆ ಕಳುಹಿಸಿ"
 "Change Customer Group?","ಗ್ರಾಹಕರ ಗುಂಪನ್ನು ಬದಲಿಸುವುದೇ?"
+"Customer Active","ಗ್ರಾಹಕರು ಸಕ್ರಿಯ"
 "Change Company?","ಸಂಸ್ಠೆ ಬದಲಿಸುವುದೆ?"
 "Associate to Company","ಸಂಸ್ಥೆಗೆ ನಿಯೋಜಿಸಿ"
 "My Orders","ನನ್ನ ವ್ಯಾಪಾರಾದೇಶಗಳು"
@@ -1539,7 +1675,6 @@ Reimburse,ಮರುಪಾವತಿ
 "Payment on Account","ಖಾತೆಯ ಮೇಲಿನ ಪಾವತಿ"
 View,ವೀಕ್ಷಿಸಿ
 "Reason For Change","ಬದಲಾವಣೆಗೆ ಕಾರಣ"
-Amount,ಮೊತ್ತ
 Rate,ದರ
 Date,ದಿನಾಂಕ
 Operation,ಕಾರ್ಯಾಚರಣೆ
@@ -1597,7 +1732,6 @@ Visible,ಗೋಚರಿಸುತ್ತಿರುವ
 "Write Us","ನಮಗೆ ಬರೆಯಿರಿ"
 "Jot us a note and we’ll get back to you as quickly as possible.","ಸೂಚನೆಗಳನ್ನು ಗೀಚಿ ಮತ್ತು ನಾವು ಸಾಧ್ಯವಾದಷ್ಟು ಶೀಘ್ರವಾಗಿ ನಿಮ್ಮನ್ನು ಸಂಪರ್ಕಿಸುತ್ತೇವೆ."
 "What’s on your mind?","ನಿಮ್ಮ ಮನದಲ್ಲೇನಿದೆ?"
-Phone,ದೂರವಾಣಿ
 "Contacts Section","ಸಂಪರ್ಕಗಳ ವಿಭಾಗ"
 "Contact Us","ನಮ್ಮನ್ನು ಸಂಪರ್ಕಿಸಿ"
 "Enable Contact Us","ನಮ್ಮನ್ನು ಸಂಪರ್ಕಿಸಿ ಅನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ"
@@ -1778,7 +1912,6 @@ Admin,ನಿರ್ವಾಹಕ
 Male,ಪುರುಷ
 Female,ಸ್ತ್ರೀ
 "Not Specified",ಸೂಚಿಸಿಲ್ಲ
-"some error","ಒಂದು ದೋಷ"
 Street,ರಸ್ತೆ
 "NOT LOGGED IN","ಲಾಗಿನ್ ಆಗಿಲ್ಲ"
 "Please enter the state/province.","ದಯವಿಟ್ಟು ರಾಜ್ಯವನ್ನು ನಮೂದಿಸಿ."
@@ -1812,13 +1945,11 @@ Visitor,ಸಂದರ್ಶಕರು
 "Contact Information","ಸಂಪರ್ಕ ಮಾಹಿತಿ"
 "Change Password","ಗುಪ್ತಪದವನ್ನು ಬದಲಿಸಿ"
 Newsletters,ಸುದ್ದಿಪತ್ರಿಕೆಗಳು
-or,ಅಥವಾ
 "Default Addresses","ನಿಯೋಜಿತ ವಿಳಾಸಗಳು"
 "Change Billing Address","ಬಿಲ್ಲಿಂಗ್ ವಿಳಾಸ ಬದಲಿಸಿ"
 "You have no default billing address in your address book.","ನಿಮ್ಮ ವಿಳಾಸಪಟ್ಟಿಯಲ್ಲಿ ನಿಯೋಜಿತ ಬಿಲ್ಲಿಂಗ್ ವಿಳಾಸವನ್ನು ಹೊಂದಿಲ್ಲ."
 "Change Shipping Address","ರವಾನೆ ವಿಳಾಸ ಬದಲಿಸಿ"
 "You have no default shipping address in your address book.","ನಿಮ್ಮ ವಿಳಾಸಪಟ್ಟಿಯಲ್ಲಿ ನಿಯೋಜಿತ ರವಾನೆ ವಿಳಾಸವನ್ನು ಹೊಂದಿಲ್ಲ."
-Address,ವಿಳಾಸ
 "Street Address: Line %1","ಬೀದಿ ವಿಳಾಸ: Line %1"
 "Street Address %1","ಬೀದಿ ವಿಳಾಸ %1"
 "It's a default billing address.","ಇದು ನಿಯೋಜಿತ ಬಿಲ್ಲಿಂಗ್ ವಿಳಾಸ."
@@ -1969,13 +2100,18 @@ Addresses,ವಿಳಾಸಗಳು
 "Edit Account Information","ಖಾತೆಯ ಮಾಹಿತಿಯನ್ನು ಸಂಪಾದಿಸಿ"
 "Password forgotten","ಮರೆತ ಗುಪ್ತಪದ"
 "You are signed out","ನೀವು ಸೈನ್ ಔಟ್ ಆಗಿದ್ದೀರಿ"
+"Store Credit","ಮಳಿಗೆ ಕ್ರೆಡಿಟ್"
+"Delete Orphan Balances","ಅನಾಥ ಬಾಕಿಗಳನ್ನು ಅಳಿಸಿ"
 Balance,ಬಾಕಿ
 "More information","ಹೆಚ್ಚಿನ ಮಾಹಿತಿ"
+"Please specify a customer ID.","ದಯವಿಟ್ಟು ಗ್ರಾಹಕರ ಐಡಿಯನ್ನು ನಮೂದಿಸಿ."
 Used,ಬಳಸಿದೆ
 Refunded,ಮರುಪಾವತಿಸಿದೆ
 "Balance History","ಬಾಕಿ ಚರಿತ್ರೆ"
 "Your balance is:","ನಿಮ್ಮ ಬಾಕಿ:"
 available,ಲಭ್ಯವಿದೆ
+"Store credit available","ಮಳಿಗೆ ಕ್ರೆಡಿಟ್ ಲಭ್ಯವಿದೆ"
+"Store Credit Options","ಮಳಿಗೆ ಕ್ರೆಡಿಟ್ ಆಯ್ಕೆಗಳು"
 "Valid range 2-20","ಮಾನ್ಯವಾದ ಶ್ರೇಣಿ: 2-20"
 "You cannot delete this attribute.","ನಮಗೆ ಗುಣವಿಶೇಷವನ್ನು ಅಳಿಸಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ."
 "You cannot edit this attribute.","ನೀವು ಗುಣವಿಶೇಷವನ್ನು ಸಂಪಾದಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ."
@@ -1988,7 +2124,6 @@ available,ಲಭ್ಯವಿದೆ
 "This is your default shipping address.","ಇದು ನಿಮ್ಮ ನಿಯೋಜಿತ ರವಾನೆ ವಿಳಾಸ."
 Upload,ಅಪ್ಲೋಡ್
 "Customer Address","ಗ್ರಾಹಕರ ವಿಳಾಸ"
-"Store Credit","ಮಳಿಗೆ ಕ್ರೆಡಿಟ್"
 "Reward Points","ಕೊಡುಗೆ ಅಂಕಗಳು"
 "Customer id %1 does not exist.","ಗ್ರಾಹಕರ id %1 ಅಸ್ತಿತ್ವದಲ್ಲಿಲ್ಲ."
 "Customer with id ""%customer_id"" does not exist.","""%customer_id"" id ಯೊಂದಿಗಿನ ಗ್ರಾಹಕರು ಅಸ್ತಿತ್ವದಲ್ಲಿಲ್ಲ."
@@ -2040,7 +2175,6 @@ matches,ಹೊಂದಿಕೆಯಾಗಿದೆ
 Decision,ನಿರ್ಧಾರ
 "Risk Score","ರಿಸ್ಕ್ ಸ್ಕೋರು"
 "Reference number","ಪರಾಮರ್ಶನೆ ಸಂಖ್ಯೆ"
-Authorize,ದೃಢೀಕರಿಸಿ
 "Access Key","ಅನುಮತಿ ಸಂಕೇತ"
 "Secret Key","ರಹಸ್ಯ ಸಂಕೇತ"
 "Import failed: %1","ಆಮದು ವಿಫಲವಾಗಿದೆ: %1"
@@ -2099,7 +2233,6 @@ sample,ನಮೂನೆ
 "Start Download","ಡೌನ್‍ಲೋಡನ್ನು ಪ್ರಾರಂಭಿಸಿ"
 download,ಡೌನ್‍ಲೋಡ್
 Ordered,ವ್ಯಾಪಾರಾದೇಶಿಸಿದ
-Shipped,ರವಾನಿಸಿದ
 "Downloadable Product Section","ಇಳಿಸಿಕೊಳ್ಳಬಹುದಾದ ಉತ್ಪನ್ನಗಳ ವಿಭಾಗ"
 Downloads,ಇಳಿಕೆಗಳು
 "Downloadable Product Options","ಇಳಿಸಿಕೊಳ್ಳಬಹುದಾದ ಉತ್ಪನ್ನಗಳ ಆಯ್ಕೆಗಳು"
@@ -2153,16 +2286,11 @@ Updated,ಪರಿಷ್ಕರಿಸಿದ
 "The encryption key has been changed.","ಗೂಢಲಿಪೀಕರಣದ ಕೀಯನ್ನು ಬದಲಾಯಿಸಲಾಗಿದೆ."
 "Manage Encryption Key","ಗೂಢಲಿಪೀಕರಣದ ಕೀಯನ್ನು ನಿರ್ವಹಿಸಿ"
 "Private Sales","ಖಾಸಗಿ ಮಾರಾಟಗಳು"
-"Payment Type","ಪಾವತಿ ವಿಧ"
-"Transaction Type","ವಹಿವಾಟಿನ ವಿಧ"
-"Transaction ID","ವಹಿವಾಟಿನ ID"
-"CVV Verification","CVV ಪರಿಶೀಲನೆ"
 "Address Verification","ವಿಳಾಸದ ಪರಿಶೀಲನೆ"
 "Email Verification","ಮಿಂಚೆ ಪರಿಶೀಲನೆ"
 "Mobile Verification","ಮೊಬೈಲ್ ಪರಿಶೀಲನೆ"
 "Phone Verification","ದೂರವಾಣಿ ಸಂಖ್ಯೆ ಪರಿಶೀಲನೆ"
 "Approve Message","ಅನುಮೋದನೆ ಸಂದೇಶ"
-"Sorry, but something went wrong","ಕ್ಷಮಿಸಿ, ಆದರೆ ಏನೋ ತೊಂದರೆಯಾಗಿದೆ"
 "Connection Type","ಸಂಪರ್ಕ ವಿದ"
 "Transaction has been declined, please, try again later.","ವಹಿವಾಟನ್ನು ನಿರಾಕರಿಸಲಾಗಿದೆ. ದಯವಿಟ್ಟು ನಂತರ ಪ್ರಯತ್ನಿಸಿ."
 "Issue Number","ಇಶ್ಯೂ ಸಂಖ್ಯೆ"
@@ -2339,7 +2467,6 @@ Owner,ಮಾಲೀಕರು
 "Is Searcheable",ಹುಡುಕಬಹುದಾದ
 "Show Region","ವಲಯವನ್ನು ಪ್ರದರ್ಶಿಸಿ"
 "Date Format","ದಿನಾಂಕದ ಮಾದರಿ"
-"Is Default",ಪೂರ್ವನಿಯೋಜಿತ
 "Added On","ರಂದು ಸೇರಿಸಿದೆ"
 "Qty Fulfilled","ಪೂರೈಸಿದ ಪರಿಮಾಣ"
 "Created On","ರಚಿಸಿದ ದಿನಾಂಕ"
@@ -2359,7 +2486,6 @@ Type:,ವಿಧ:
 "Search Options","ಹುಡುಕುವಿಕೆಯ ಆಯ್ಕೆಗಳು"
 "Search Results","ಹುಡುಕುವಿಕೆಯ ಫಲಿತಾಂಶಗಳು"
 Location,ಸ್ಥಳ
-"Your search returned no results.","ನಿಮ್ಮ ಹುಡುಕಾಟ ಯಾವುದೇ ಫಲಿತಾಂಶಗಳನ್ನು ನೀಡಿಲ್ಲ."
 "Please enter at least two letters of the name.","ದಯವಿಟ್ಟು ಹೆಸರಿನ ಕನಿಷ್ಟ ಎರಡು ಅಕ್ಷರಗಳನ್ನು ನಮೂದಿಸಿ."
 "Please enter at least two letters.","ದಯವಿಟ್ಟು ಕನಿಷ್ಟ ಎರಡು ಅಕ್ಷರಗಳನ್ನು ನಮೂದಿಸಿ."
 "Unit Price","ಘಟಕದ ದರ"
@@ -2526,7 +2652,6 @@ Partners,ಪಾಲುದಾರರು
 "File system","ಕಡತ ವ್ಯವಸ್ಥೆ"
 "Unable to save file: %1","ಕಡತವನ್ನು ಉಳಿಸಲಾಗಿಲ್ಲ: %1"
 "Image resize: %1","ಚಿತ್ರ ಮರುಗಾತ್ರಿಸಿ:%1"
-"Media Storage","ಮಾಧ್ಯಮ ಸಂಗ್ರಹಣೆ"
 "Some exception","ಒಂದು exception"
 "In Cart","ಶಾಪಿಂಗ್ ಬುಟ್ಟಿಯಲ್ಲಿ"
 "Before Order Confirmation","ವ್ಯಾಪಾರಾದೇಶ ಖಚಿತಪಡಿಸುವ ಮುನ್ನ"
@@ -2618,7 +2743,6 @@ Qty:,ಪರಿಮಾಣ:
 (Removed),(ತೆಗೆದುಹಾಕಿದೆ)
 deleted,ಅಳಿಸಿದೆ
 "Estimated Tax","ಅಂದಾಜು ತೆರಿಗೆ"
-Sales,ವ್ಯಾಪಾರಗಳು
 "Please sign in to download.","ಡೌನ್‍ಲೋಡ್ ಮಾಡಲು ದಯವಿಟ್ಟು ಸೈನ್ ಇನ್ ಆಗಿ."
 " - deleted"," ಅಳಿಸಿದೆ"
 "Could not save history log","ಚರಿತ್ರೆಯ ಲಾಗ್ ಅನ್ನು ಉಳಿಸಲಾಗಲಿಲ್ಲ"
@@ -2807,8 +2931,6 @@ Dispute,ವಿವಾದ
 "N/A. Service not supported","N/A. ಸೇವೆ ಬೆಂಬಲಿತವಿಲ್ಲ"
 "N/A. Service not available","N/A. ಸೇವೆ ಲಭ್ಯವಿಲ್ಲ"
 "Matched (CVV2)","ಹೊಂದಿಕೆಯಾಗಿದೆ (CVV2)"
-ending,ಕೊನೆಯಾಗುವ
-expires,"ಕಾಲಾವಧಿಯ ಅಂತ್ಯ"
 "Note: %1",ಟಿಪ್ಪಣಿ:%1
 "We cannot cancel this order.","ಈ ವ್ಯಾಪಾರಾದೇಶವನ್ನು ನಾವು ರದ್ದುಗೊಳಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ."
 "Invalid method %1::%2","ಅಸಿಂಧುವಾದ ವಿಧಾನ %1::%2"
@@ -2818,8 +2940,6 @@ expires,"ಕಾಲಾವಧಿಯ ಅಂತ್ಯ"
 "Debit or Credit","ಖರ್ಚು ಅಥವಾ ಜಮಾ"
 "Gross Amount","ಒಟ್ಟು ಮೊತ್ತ"
 "Fee Amount","ಶುಲ್ಕದ ಮೊತ್ತ"
-"Order ID","ವ್ಯಾಪಾರಾದೇಶ ID"
-Credit,ಜಮಾ
 Debit,ಖರ್ಚು
 "ACH Withdrawal","ACH ಹಿಂಪಡೆಯುವಿಕೆ"
 "Available Balance","ಲಭ್ಯವಿರುವ ಬಾಕಿ"
@@ -2844,7 +2964,6 @@ Installment,ಕಂತು
 "Yes (PayPal recommends this option)","ಹೌದು (PayPal ಈ ಆಯ್ಕೆಯನ್ನು ಶಿಫಾರಸ್ಸು ಮಾಡುತ್ತದೆ)"
 "Created billing agreement #%1.","ಬಿಲ್ಲಿಂಗ್ ಒಪ್ಪಂದ #%1 ರಚಿತವಾಗಿದೆ."
 "Billing Agreement","ಬಿಲ್ಲಿಂಗ್ ಒಪ್ಪಂದ"
-"Created At","ರಚಿಸಿದ ದಿನಾಂಕ"
 "Updated At","ಪರಿಷ್ಕರಿಸಿದ ದಿನಾಂಕ"
 here,ಇಲ್ಲಿ
 " to learn more."," ಇನ್ನಷ್ಟು ತಿಳಿದುಕೊಳ್ಳಲು."
@@ -2883,9 +3002,7 @@ Display,ಪ್ರದರ್ಶಿಸಿ
 Size,ಗಾತ್ರ
 "Checkout Cart Page","ಬುಟ್ಟಿ ಚೆಕೌಟ್ ಪುಟ"
 "Display on Product Details Page","ಉತ್ಪನ್ನದ ವಿವರಗಳ ಪುಟದಲ್ಲಿ ಪ್ರದರ್ಶಿಸಿ"
-"Display on Shopping Cart","ಶಾಪಿಂಗ್ ಬುಟ್ಟಿಯಲ್ಲಿ ಪ್ರದರ್ಶಿಸಿ"
 "Enable SSL verification","SSL ಪರಿಶೀಲನೆಯನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ"
-"Require Customer's Billing Address","ಗ್ರಾಹಕರ ಬಿಲ್ಲಿಂಗ್ ವಿಳಾಸ ಅಗತ್ಯವಿದೆ"
 "PayPal Billing Agreement Settings","PayPal ಬಿಲ್ಲಿಂಗ್ ಒಪ್ಪಂದದ ಸಂಯೋಜನೆಗಳು"
 "Time of Day","ದಿನದ ಸಮಯ"
 "Page Style","ಪುಟದ ಶೈಲಿ"
@@ -2903,7 +3020,6 @@ Features,ವೈಶಿಷ್ಟ್ಯಗಳು
 Partner,ಪಾಲುದಾರರು
 "Require CVV Entry","CVV ನಮೂದಿನ ಅಗತ್ಯವಿದೆ"
 "Credit Card Settings","ಕ್ರೆಡಿಟ್ ಕಾರ್ಡ್ ಸಂಯೋಜನೆಗಳು"
-"Allowed Credit Card Types","ಅನುಮತಿಸಿರುವ ಕ್ರೆಡಿಟ್ ಕಾರ್ಡ್ ವಿಧಗಳು"
 "CVV and AVS Settings","CVV ಮತ್ತು AVS ಸಂಯೋಜನೆಗಳು"
 "Card Security Code Does Not Match","ಕಾರ್ಡಿನ ಗೌಪ್ಯತಾ ಸಂಕೇತ ಹೊಂದಿಕೆಯಾಗಿಲ್ಲ"
 "Remember Me","ನನ್ನನ್ನು ‍ನೆನಪಿಟ್ಟುಕೊಳ್ಳಿ"
@@ -2948,7 +3064,6 @@ Duration:,ಅವಧಿ:
 "Download Sample","ನಮೂನೆಯನ್ನು ಇಳಿಸಿಕೊಳ್ಳಿ"
 "Shipping & Handling (%1)","ಸಾಗಾಣಿಕೆ & ನಿರ್ವಹಣೆ (%1)"
 "Some of the selected options are not currently available.","ಕೆಲವು ಆರಿಸಿದ ಆಯ್ಕೆಗಳು ಸಧ್ಯಕ್ಕೆ ಲಭ್ಯವಿಲ್ಲ."
-"""%fieldName"" is required. Enter and try again.","""%fieldName"" ಅಗತ್ಯವಿದೆ. ನಮೂದಿನ ಮತ್ತು ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ."
 "Minimum order amount is %1","ಕನಿಷ್ಟ ವ್ಯಾಪಾರಾದೇಶದ ಮೊತ್ತ %1"
 "Invalid customer id %1","ಅಸಿಂಧುವಾದ ಗ್ರಾಹಕರ id %1"
 "Invalid customer address id %1","ಅಸಿಂಧುವಾದ ಗ್ರಾಹಕರ ವಿಳಾಸದ id %1"
@@ -3197,7 +3312,6 @@ Registration,ನೋಂದಣಿ
 "Amount Balance","ಬಾಕಿ ಮೊತ್ತ"
 "Add Reward Points","ಕೊಡುಗೆ ಅಂಕಗಳನ್ನು ಸೇರಿಸಿ"
 "Submit Comment","ಅಭಿಪ್ರಾಯ ಸಲ್ಲಿಸಿ"
-Authorized,ದೃಢೀಕರಿಸಿದೆ
 Split,ವಿಭಜಿಸಿ
 "Remaining Qty","ಉಳಿದಿರುವ ಪರಿಮಾಣ"
 "Requested Qty","ವಿನಂತಿಸಿದ ಪರಿಮಾಣ"
@@ -3362,7 +3476,6 @@ Operations,ಕಾರ್ಯಾಚರಣೆಗಳು
 "Include Discount Amount","ರಿಯಾಯಿತಿ ಮೊತ್ತ ಸೇರಿಸಿ"
 "Description Message","ವಿವರಣೆ ಸಂದೇಶ"
 "Sales Emails","ಮಾರಾಟ ಮಿಂಚೆಗಳು"
-Shipment,ರವಾನೆ
 "Shipment Email Sender","ರವಾನೆ ಮಿಂಚೆ ರವಾನೆದಾರರು"
 "Shipment Email Template","ರವಾನೆ ಮಿಂಚೆಯ ಮಾದರಿ"
 "Shipment Comments","ರವಾನೆ ಅಭಿಪ್ರಾಯಗಳು"
@@ -3430,7 +3543,6 @@ Binary,ಬೈನರಿ
 ASCII,ಆಸ್ಕಿ
 "Stop Import","ಆಮದು ತಡೆಯಿರಿ"
 "Continue Processing","ಪ್ರಕ್ರಿಯೆಯನ್ನು ಮುಂದುವರೆಸಿ"
-Failed,ವಿಫಲಗೊಂಡಿದೆ
 Successful,ಯಶಸ್ವಿಯಾಗಿದೆ
 Pending,"ಬಾಕಿ ಇದೆ"
 "Can not open file","ಕಡತ ತೆರೆಯಲು ಆಗಲಿಲ್ಲ"
@@ -3451,7 +3563,6 @@ Pending,"ಬಾಕಿ ಇದೆ"
 "    All Store Views","    ಎಲ್ಲಾ ಮಳಿಗೆಗಳ ನೋಟಗಳು"
 Hits,ಭೇಟಿಗಳು
 Synonyms,"ಪರ್ಯಾಯ ಪದಗಳು"
-"Advanced Search","ಸುಧಾರಿತ ಹುಡುಕಾಟ"
 "Search Terms","ಪದಗಳನ್ನು ಹುಡುಕಿ"
 "Account Activity","ಖಾತೆ ಚಟುವಟಿಕೆ"
 "You can't send messages more than %1 times an hour.","ನೀವು ಸಂದೇಶಗಳನ್ನು ಗಂಟೆಗೆ %1 ಕ್ಕಿಂತ ಹೆಚ್ಚು ಬಾರಿ ಕಳುಹಿಸಲಾಗುವುದಿಲ್ಲ."
@@ -3473,7 +3584,6 @@ Synonyms,"ಪರ್ಯಾಯ ಪದಗಳು"
 "Cannot delete product with id %1","%1 ಐಡಿ ಜೊತೆಗಿನ ಉತ್ಪನ್ನವನ್ನು ಅಳಿಸಲಾಗುವುದಿಲ್ಲ"
 "Requested product doesn't exist: %sku.","ವಿನಂತಿಸಿದ ಉತ್ಪನ್ನ ಅಸ್ತಿತ್ವದಲ್ಲಿಲ್ಲ: %sku."
 "Requested product doesn't exist: %1.","ವಿನಂತಿಸಿದ ಉತ್ಪನ್ನ ಅಸ್ತಿತ್ವದಲ್ಲಿಲ್ಲ: %1."
-error,ದೋಷ
 "Website 3","ಜಾಲತಾಣ 3"
 "Website 1","ಜಾಲತಾಣ 1"
 "Delete ""%1""","ಅಳಿಸಿ ""%1"""
@@ -3883,7 +3993,6 @@ Parcel,ಪಾರ್ಸೆಲ್ಲು
 Regular,ನಿಯತ
 Large,ದೊಡ್ಡ
 "No token found.","ಯಾವುದೇ ಟೋಕನ್ ಕಂಡುಬಂದಿಲ್ಲ."
-"Card Number","ಕಾರ್ಡ್ ಸಂಖ್ಯೆ"
 "Are you sure you want to delete this card: %1?","ನೀವು %1 ಕಾರ್ಡ್ ಅನ್ನು ಖಚಿತವಾಗಿಯೂ ಅಳಿಸಲು ಬಯಸುವಿರಾ?"
 "Specify the ""public_hash"" value.","""public_hash"" ನಮೂದನ್ನು ಸೂಚಿಸಿ."
 "Delete Current Hierarchy","ಪ್ರಸ್ತುತ ವರ್ಗಶ್ರೇಣಿಯನ್ನು ಅಳಿಸಿ"
@@ -3908,7 +4017,6 @@ Page:,ಪುಟ:
 "Publish Revision","ಪರಿಷ್ಕರಣೆಯನ್ನು ಪ್ರಕಟಿಸಿ"
 "CMS Hierarchy","CMS ವರ್ಗಶ್ರೇಣಿ"
 Bottom,ಕೆಳಗೆ
-"Choose a selection...","ಒಂದು ಆಯ್ಕೆಯನ್ನು ಆರಿಸಿ..."
 Equal,ಸಮ
 "Not equal",ಅಸಮ
 "Greater than","ಗಿಂತ ದೊಡ್ಡದು"
