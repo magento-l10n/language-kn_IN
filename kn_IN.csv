@@ -1,16 +1,21 @@
 All,ಎಲ್ಲಾ
 None,"ಯಾವುದೂ ಇಲ್ಲ"
+"Allowed Scopes","ಅನುಮತಿಸಿರುವ ವ್ಯಾಪ್ತಿಗಳು"
 "More permissions are needed to delete the ""%1"" item.","""%1"" ವಸ್ತುವನ್ನು ಅಳಿಸಲು ಹೆಚ್ಚಿನ ಅನುಮತಿಗಳ ಅಗತ್ಯವಿದೆ."
+"You need more permissions to apply some of the rule updates.","ಕೆಲವು ನಿಯಮಗಳ ಪರಿಷ್ಕರಣೆ ಅನ್ವಯಕ್ಕಾಗಿ ನಿಮಗೆ ಹೆಚ್ಚಿನ ಅನುಮತಿಯ ಅಗತ್ಯವಿದೆ."
 "More permissions are needed to view this item.","ಈ ವಸ್ತುವನ್ನು ವೀಕ್ಷಿಸಲು ಹೆಚ್ಚಿನ ಅನುಮತಿಗಳ ಅಗತ್ಯವಿದೆ."
 "Orders can only be completed in an active store. Verify the store and try again.","ಸಕ್ರಿಯವಾಗಿರುವ ಮಳಿಗೆಯಲ್ಲಿ ಮಾತ್ರ ವ್ಯಾಪಾರಾದೇಶಗಳನ್ನು ಪೂರ್ಣಗೊಳಿಸಬಹುದು. ಮಳಿಗೆಯನ್ನು ಪರಿಶೀಲಿಸಿ ಮತ್ತು ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ."
 "More permissions are needed to save this item.","ಈ ವಸ್ತುವನ್ನು ಉಳಿಸಲು ಹೆಚ್ಚಿನ ಅನುಮತಿಗಳ ಅಗತ್ಯವಿದೆ."
 "More permissions are needed to delete this item.","ಈ ವಸ್ತುವನ್ನು ಅಳಿಸಲು ಹೆಚ್ಚಿನ ಅನುಮತಿಗಳ ಅಗತ್ಯವಿದೆ."
+"The ""%1"" website ID is incorrect. Verify the website ID and try again.","""%1"" ಜಾಲತಾಣ ಐಡಿ ತಪ್ಪಾಗಿದೆ. ಜಾಲತಾಣ ಐಡಿ ಪರಿಶೀಲಿಸಿ ಮತ್ತು ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ."
 "You need more permissions to access website ""%1"".","""%1"" ಜಾಲತಾಣವನ್ನು ಪ್ರವೇಶಿಸಲು ನಿಮಗೆ ಹೆಚ್ಚಿನ ಅನುಮತಿಗಳ ಅಗತ್ಯವಿದೆ."
+"The ""%1"" store ID is incorrect. Verify the store ID and try again.","""%1"" ಮಳಿಗೆ ಐಡಿ ತಪ್ಪಾಗಿದೆ. ಮಳಿಗೆ ಐಡಿ ಪರಿಶೀಲಿಸಿ ಮತ್ತು ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ."
 "More permissions are needed to save this setting.","ಈ ಸಂಯೋಜನೆಯನ್ನು ಉಳಿಸಲು ಹೆಚ್ಚಿನ ಅನುಮತಿಗಳ ಅಗತ್ಯವಿದೆ."
 "Read Details","ವಿವರಗಳನ್ನು ಓದಿರಿ"
 "Mark as Read","ಓದಿರುವಂತೆ ಗುರುತಿಸಿ"
 "Are you sure?","ನಿಮಗೆ ಖಚಿತವೆ?"
 Remove,ತೆಗೆದುಹಾಕಿ
+"Messages Inbox","ಸಂದೇಶಗಳ ಇನ್‍ಬಾಕ್ಸ್"
 "Incoming Message","ಒಳಬರುವ ಸಂದೇಶ"
 close,ಮುಚ್ಚಿರಿ
 Notifications,ಅಧಿಸೂಚನೆಗಳು
@@ -25,7 +30,10 @@ Notifications,ಅಧಿಸೂಚನೆಗಳು
 "12 Hours","12 ಗಂಟೆಗಳು"
 "24 Hours","24 ಗಂಟೆಗಳು"
 critical,ಸಂದಿಗ್ಧ
+major,ಪ್ರಮುಖ
+minor,ಕಿರಿಯ
 notice,ನೋಟೀಸು
+"Wrong message type","ತಪ್ಪಾದ ಸಂದೇಶದ ವಿಧ"
 Close,ಮುಚ್ಚಿರಿ
 "See All (","ಎಲ್ಲವನ್ನೂ ನೋಡಿ("
 " unread)"," ಓದಿಲ್ಲದಿರುವುದು)"
@@ -33,6 +41,7 @@ Close,ಮುಚ್ಚಿರಿ
 "Show List","ಪಟ್ಟಿಯನ್ನು ಪ್ರದರ್ಶಿಸಿ"
 "Update Frequency","ಪರಿಷ್ಕರಣೆಯ ಆವರ್ತನ"
 "Last Update","ಕೊನೆಯ ಪರಿಷ್ಕರಣೆ"
+Severity,ತೀವ್ರತೆ
 "Date Added","ಸೇರಿಸಿದ ದಿನಾಂಕ"
 Message,ಸಂದೇಶ
 Actions,ಕ್ರಿಯೆಗಳು
@@ -150,7 +159,9 @@ File,ಕಡತ
 "Sales Rule","ವ್ಯಾಪಾರದ ನಿಯಮ"
 "Related Search Terms","ಸಂಬಂಧಿತ ಹುಡುಕುವಿಕೆಯ ಪದಪುಂಜಗಳು"
 "Add New Search Term","ಹೊಸ ಹುಡುಕುವಿಕೆಯ ಪದಪುಂಜವನ್ನು ಸೇರಿಸಿ"
+"Successful! Test again?","ಯಶಸ್ವಿಯಾಗಿದೆ! ಮತ್ತೆ ಪರೀಕ್ಷಿಸುವಿರಾ?"
 "Connection failed! Test again?","ಸಂಪರ್ಕ ವಿಫಲವಾಗಿದೆ! ಮತ್ತೆ ಪರೀಕ್ಷಿಸುವಿರಾ?"
+"Enable Search Suggestions","ಹುಡುಕಾಟದ ಶಿಫಾರಸ್ಸುಗಳನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ"
 "Show Results Count for Each Suggestion","ಪ್ರತಿ ಸಲಹೆಗಳಿಗೆ ಫಲಿತಾಂಶದ ಎಣಿಕೆಯನ್ನು ಪ್ರದರ್ಶಿಸಿ"
 "Related search terms","ಸಂಬಂಧಿತ ಹುಡುಕುವಿಕೆಯ ಪದಪುಂಜಗಳು"
 "Did you mean","ನಿಮ್ಮ ಪ್ರಕಾರ"
@@ -164,6 +175,8 @@ Yes,ಹೌದು
 "Sorry, there has been an error processing your request. Please try again later.","ಕ್ಷಮಿಸಿ, ನಿಮ್ಮ ವಿನಂತಿಯನ್ನು ಸಂಸ್ಕರಿಸುವಲ್ಲಿ ದೋಷವುಂಟಾಗಿದೆ. ದಯವಿಟ್ಟು ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ."
 "Please select an industry.","ದಯವಿಟ್ಟು ಉದ್ಯಮವನ್ನು ಆರಿಸಿ."
 "--Please Select--","--ದಯವಿಟ್ಟು ಆರಿಸಿ--"
+"The ""%1"" source doesn't exist.","""%1"" ನ ಮೂಲ ಅಸ್ತಿತ್ವದಲ್ಲಿಲ್ಲ."
+"File is not ready yet.","ಕಡತ ಇನ್ನೂ ಸಜ್ಜುಗೊಂಡಿಲ್ಲ."
 "Apps and Games","ಆಪ್‍ಗಳು ಮತ್ತು ಆಟಗಳು"
 "Athletic/Sporting Goods","ಅತ್ಲೆಟಿಕ್/ಕ್ರೀಡಾ ಸಾಮಗ್ರಿಗಳು"
 "Art and Design","ಕಲೆ ಮತ್ತು ವಿನ್ಯಾಸ"
@@ -201,16 +214,22 @@ Retry,ಮರುಪ್ರಯತ್ನಿಸಿ
 "Topic %1","ವಿಷಯ %1"
 "Something went wrong while processing the request.","ಈ ವಿನಂತಿಯನ್ನು ಸಂಸ್ಕರಿಸುವಲ್ಲಿ ಎನೋ ತೊಂದರೆಯಾಗಿದೆ."
 "Sorry, something went wrong during product prices update. Please see log for details.","ಕ್ಷಮಿಸಿ, ಉತ್ಪನ್ನದ ಬೆಲೆಗಳನ್ನು ಪರಿಷ್ಕರಿಸುವಲ್ಲಿ ಯಾವುದೋ ತೊಂದರೆಯುಂಟಾಗಿದೆ, ದಯವಿಟ್ಟು ವಿವರಗಳಿಗಾಗಿ ಲಾಗ್ ಅನ್ನು ವೀಕ್ಷಿಸಿ."
+"%1 item(s) are currently being updated.","ಪ್ರಸ್ತುತ %1 ವಸ್ತು(ಗಳು) ಪರಿಷ್ಕರಣೆಗೊಳ್ಳುತ್ತಿವೆ."
 "Task ""%1"": ","ಕೆಲಸ ""%1"": "
+"%1 item(s) have been successfully updated.","%1 ವಸ್ತು(ಗಳು) ಯಶಸ್ವಿಯಾಗಿ ಪರಿಷ್ಕರಣೆಗೊಂಡಿವೆ."
+"%1 item(s) failed to update","%1 ವಸ್ತು(ಗಳು) ಪರಿಷ್ಕರಣೆಗೊಳ್ಳುವಲ್ಲಿ ವಿಫಲವಾಗಿವೆ"
 Details,ವಿವರಗಳು
 "View Details","ವಿವರಗಳನ್ನು ವೀಕ್ಷಿಸಿ"
 Dismiss,ವಜಾಗೊಳಿಸಿ
+"Pending, in queue...","ಬಾಕಿಯಿದೆ, ಸರತಿಯಲ್ಲಿವೆ..."
+", %1 successfully updated",", %1 ಯಶಸ್ವಿಯಾಗಿ ಪರಿಷ್ಕರಣೆಗೊಂಡಿದೆ"
 "Something went wrong.","ಯಾವುದೋ ತಪ್ಪು ಸಂಭವಿಸಿದೆ."
 Report,ವರದಿ
 "Bulk Actions","ಸಾಮೂಹಿಕ ಕ್ರಿಯೆಗಳು"
 "Description of Operation","ಕಾರ್ಯಾಚರಣೆಯ ವಿವರಣೆ"
 Summary,ಸಾರಾಂಶ
 "Start Time","ಪ್ರಾರಂಭದ ಸಮಯ"
+"Items to Retry","ಮರುಪ್ರಯತ್ನಿಸಲು ವಸ್ತುಗಳು"
 Status,ಸ್ಥಿತಿ
 "Meta Information","ಮೆಟಾ ಮಾಹಿತಿ"
 Error,ದೋಷ
@@ -219,6 +238,7 @@ Error,ದೋಷ
 "The role wasn't found for the user. Verify the role and try again.","ಬಳಕೆದಾರರಿಗೆ ಹುದ್ದೆ ಕಂಡುಬಂದಿಲ್ಲ. ಹುದ್ದೆಯನ್ನು ಪರಿಶೀಲಿಸಿ ಮತ್ತು ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ."
 "You created the order.","ನೀವು ವ್ಯಾಪಾರಾದೇಶ ರಚಿಸಿದ್ದೀರಿ."
 "Please choose a payment method.","ದಯವಿಟ್ಟು ಪಾವತಿ ವಿದಾನವನ್ನು ಆರಿಸಿ."
+"An error occurred on the server. Please try to place the order again.","ಸರ್ವರ್ ನಲ್ಲಿ ದೋಷವುಂಟಾಗಿದೆ. ದಯವಿಟ್ಟು ನಿಮ್ಮ ವ್ಯಾಪಾರಾದೇಶವನ್ನು ಮತ್ತೊಮ್ಮೆ ಸಲ್ಲಿಸಿ."
 "Credit Card: xxxx-%1","ಕ್ರೆಡಿಟ್ ಕಾರ್ಡ್: xxxx-%1"
 "amount %1","ಮೊತ್ತ %1"
 failed.,ವಿಫಲಗೊಂಡಿದೆ.
@@ -235,6 +255,7 @@ refund,ಮರುಪಾವತಿಸಿ
 "Expiration Date","ಅವಧಿ ಅಂತ್ಯದ ದಿನಾಂಕ"
 "Card Verification Number","ಕಾರ್ಡಿನ ಪರಿಶೀಲನಾ ಸಂಖ್ಯೆ"
 "Place Order",ಖರೀದಿಸಿ
+"Sorry, but something went wrong. Please contact the seller.","ಕ್ಷಮಿಸಿ, ಏನೋ ದೋಷವುಂಟಾಗಿದೆ. ದಯವಿಟ್ಟು ವರ್ತಕರನ್ನು ಸಂಪರ್ಕಿಸಿ."
 Enabled,ಸಕ್ರಿಯವಾಗಿದೆ
 "Payment Action","ಪಾವತಿ ಕ್ರಿಯೆ"
 Title,ಶೀರ್ಷಿಕೆ
@@ -256,6 +277,7 @@ Debug,ಡೀಬಗ್
 "Maximum Order Total","ಗರಿಷ್ಟ ವ್ಯಾಪಾರಾದೇಶದ ಮೊತ್ತ"
 "Sort Order","ವಿಂಗಡಣಾ ಕ್ರಮ"
 "Cannot place order.","ವ್ಯಾಪಾರಾದೇಶಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ."
+"There was an error while trying to process the request.","ವಿನಂತಿಯನ್ನು ಸಂಸ್ಕರಿಸುವಲ್ಲಿ ಒಂದು ದೋಷವುಂಟಾಗಿದೆ."
 Environment,ಪರಿಸರ
 "Credit Card Types","ಕ್ರೆಡಿಟ್ ಕಾರ್ಡ್ ವಿಧಗಳು"
 "Transaction has been declined. Please try again later.","ವಹಿವಾಟನ್ನು ನಿರಾಕರಿಸಲಾಗಿದೆ. ದಯವಿಟ್ಟು ನಂತರ ಪ್ರಯತ್ನಿಸಿ."
@@ -270,6 +292,7 @@ Show,ಪ್ರದರ್ಶಿಸಿ
 "B2B Features","B2B ಲಕ್ಷಣಗಳು"
 Orders,ವ್ಯಾಪಾರಾದೇಶಗಳು
 Amounts,ಮೊತ್ತಗಳು
+Bestsellers,"ಅತಿಹೆಚ್ಚು ಮಾರಾಟವಾಗುವ"
 "Most Viewed Products","ಹೆಚ್ಚು ವೀಕ್ಷಿಸಿದ ಉತ್ಪನ್ನಗಳು"
 "New Customers","ಹೊಸ ಗ್ರಾಹಕರು"
 Customer,ಗ್ರಾಹಕರು
@@ -277,12 +300,14 @@ Guest,ಅತಿಥಿ
 Items,ವಸ್ತುಗಳು
 Total,"ಒಟ್ಟು ಮೊತ್ತ"
 "Lifetime Sales","ಆಜೀವ ಪರ್ಯಂತ ಮಾರಾಟ"
+"Average Order","ಸಾಧಾರಣ ವ್ಯಾಪಾರಾದೇಶ"
 Average,ಸರಾಸರಿ
 Views,ನೋಟಗಳು
 Revenue,ಆದಾಯ
 Tax,ತೆರಿಗೆ
 Shipping,ರವಾನೆ
 "Images (.gif, .jpg, .png)","ಚಿತ್ರಗಳು (.gif, .jpg, .png)"
+"Media (.avi, .flv, .swf)","ಮಾಧ್ಯಮ (.avi, .flv, .swf)"
 "All Files","ಎಲ್ಲಾ ಕಡತಗಳು"
 "Reset to Default","ಪೂರ್ವನಿಯೋಜಿತಕ್ಕೆ ಮರುಹೊಂದಿಸು"
 "All Store Views","ಎಲ್ಲಾ ಮಳಿಗೆಗಳ ನೋಟಗಳು"
@@ -304,10 +329,14 @@ Clear,ತೆರವುಗೊಳಿಸಿ
 "No change","ಯಾವುದೇ ಬದಲಾವಣೆ ಇಲ್ಲ"
 Disable,ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಿ
 Enable,ಸಕ್ರಿಯಗೊಳಿಸಿ
+"Add Design Change","ವಿನ್ಯಾಸ ಬದಲಾವಣೆ ಸೇರಿಸಿ"
 Delete,ಅಳಿಸಿ
 Save,ಉಳಿಸಿ
+"Edit Design Change","ವಿನ್ಯಾಸ ಬದಲಾವಣೆ ಸಂಪಾದಿಸಿ"
+"New Store Design Change","ಹೊಸ ಮಳಿಗೆ ವಿನ್ಯಾಸ ಬದಲಾವಣೆ"
 "General Settings","ಸಾಮಾನ್ಯ ಸಂಯೋಜನೆಗಳು"
 "-- Please Select --","--ದಯವಿಟ್ಟು ಆರಿಸಿ--"
+"Custom Design","ಒಗ್ಗಿಸಿದ ವಿನ್ಯಾಸ"
 "Date From",ದಿನಾಂಕದಿಂದ
 "Date To",ದಿನಾಂಕದವರೆಗೆ
 "Design Change","ವಿನ್ಯಾಸ ಬದಲಾವಣೆ"
@@ -316,6 +345,7 @@ General,ಸಾಮಾನ್ಯ
 "Delete %1","ಅಳಿಸಿ %1"
 "Block Information","ಬ್ಲಾಕ್ ಮಾಹಿತಿ"
 "Backup Options","ಬ್ಯಾಕಪ್ ಆಯ್ಕೆಗಳು"
+"Create DB Backup","DB ಬ್ಯಾಕಪ್ ರಚಿಸಿ"
 "Delete Store","ಮಳಿಗೆ ಅಳಿಸಿ"
 "Delete Web Site","ಜಾಲತಾಣ ಅಳಿಸಿ"
 "Save Web Site","ಜಾಲತಾಣ ಉಳಿಸಿ"
@@ -343,6 +373,7 @@ Stores,ಮಳಿಗೆಗಳು
 "Create Store","ಮಳಿಗೆ ರಚಿಸಿ"
 "Create Store View","ಮಳಿಗೆ ನೋಟ ರಚಿಸಿ"
 Home,ಮುಖಪುಟ
+"Are you sure you want to do this?","ಇದನ್ನು ಮಾಡಲು ನೀವು ಖಚಿತವಾಗಿ ಬಯಸುವಿರಾ?"
 label,ಲೇಬಲ್
 "Add New Image","ಹೊಸ ಚಿತ್ರಗಳನ್ನು ಸೇರಿಸಿ"
 Search,ಹುಡುಕಿ
@@ -361,15 +392,21 @@ Submit,ಸಲ್ಲಿಸಿ
 "Access Denied.","ಅನುಮತಿಯನ್ನು ನಿರಾಕರಿಸಲಾಗಿದೆ."
 "You saved the account.","ನೀವು ಖಾತೆಯನ್ನು ಉಳಿಸಿದ್ದೀರಿ."
 "An error occurred while saving account.","ಖಾತೆಯನ್ನು ಉಳಿಸುವಾಗ ಒಂದು ದೋಷ ಕಂಡು ಬಂದಿದೆ."
+"You deleted the design change.","ವಿನ್ಯಾಸ ಬದಲಾವಣೆ ಯನ್ನು ನೀವು ಅಳಿಸಿದ್ದೀರಿ."
+"You can't delete the design change.","ವಿನ್ಯಾಸ ಬದಲಾವಣೆ ಯನ್ನು ನೀವು ಅಳಿಸಲು ಆಗುವುದಿಲ್ಲ."
 "Store Design","ಮಳಿಗೆ ವಿನ್ಯಾಸ"
+"Edit Store Design Change","ವಿನ್ಯಾಸ ಬದಲಾವಣೆ ಸಂಪಾದಿಸಿ"
+"You saved the design change.","ವಿನ್ಯಾಸ ಬದಲಾವಣೆ ಯನ್ನು ನೀವು ಉಳಿಸಿದ್ದೀರಿ."
 System,ವ್ಯವಸ್ಥೆ
 "Manage Stores","ಮಳಿಗೆಗಳನ್ನು ನಿರ್ವಹಿಸಿ"
 "Something went wrong. Please try again.","ಏನೋ ದೋಷವುಂಟಾಗಿದೆ. ದಯವಿಟ್ಟು ನಂತರ ಮತ್ತೊಮ್ಮೆ ಪ್ರಯತ್ನಿಸಿ."
+"This store cannot be deleted.","ಈ ಮಳಿಗೆಯನ್ನು ಅಳಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ."
 "You deleted the store.","ನೀವು ಮಳಿಗೆಯನ್ನು ಅಳಿಸಿದ್ದೀರಿ."
 "Unable to delete the store. Please try again later.","ಮಳಿಗೆಯನ್ನು ಅಳಿಸಲಾಗಲಿಲ್ಲ. ದಯವಿಟ್ಟು ನಂತರ ಮತ್ತೊಮ್ಮೆ ಪ್ರಯತ್ನಿಸಿ."
 "Store View","ಮಳಿಗೆ ನೋಟ"
 "You deleted the store view.","ನೀವು ಮಳಿಗೆ ನೋಟವನ್ನು ಅಳಿಸಿದ್ದೀರಿ."
 "Unable to delete the store view. Please try again later.","ಮಳಿಗೆ ನೋಟವನ್ನು ಅಳಿಸಲಾಗಲಿಲ್ಲ. ದಯವಿಟ್ಟು ನಂತರ ಮತ್ತೊಮ್ಮೆ ಪ್ರಯತ್ನಿಸಿ."
+"This website cannot be deleted.","ಈ ಜಾಲತಾಣವನ್ನು ಅಳಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ."
 "You deleted the website.","ನೀವು ಜಾಲತಾಣವನ್ನು ಅಳಿಸಿದ್ದೀರಿ."
 "Unable to delete the website. Please try again later.","ಜಾಲತಾಣವನ್ನು ಅಳಿಸಲಾಗಲಿಲ್ಲ. ದಯವಿಟ್ಟು ನಂತರ ಮತ್ತೊಮ್ಮೆ ಪ್ರಯತ್ನಿಸಿ."
 "The website does not exist.","ಜಾಲತಾಣ ಅಸ್ತಿತ್ವದಲ್ಲಿಲ್ಲ."
@@ -380,6 +417,7 @@ System,ವ್ಯವಸ್ಥೆ
 "You saved the website.","ನೀವು ಜಾಲತಾಣವನ್ನು ಉಳಿಸಿದ್ದೀರಿ."
 "You saved the store view.","ನೀವು ಮಳಿಗೆ ನೋಟವನ್ನು ಉಳಿಸಿದ್ದೀರಿ."
 "You saved the store.","ನೀವು ಮಳಿಗೆಯನ್ನು ಉಳಿಸಿದ್ದೀರಿ."
+"Something went wrong while saving. Please review the error log.","ಉಳಿಸುವಲ್ಲಿ ಏನೋ ತೊಂದರೆಯಾಗಿದೆ. ದಯವಿಟ್ಟು ಎರರ್ ಲಾಗ್ ಅನ್ನು ಪರಿಶೀಲಿಸಿ."
 "Last 24 Hours","ಕೊನೆಯ 24 ಗಂಟೆಗಳು"
 "Last 7 Days","ಕೊನೆಯ 7 ದಿನಗಳು"
 "Current Month","ಪ್ರಸ್ತುತ ತಿಂಗಳು"
@@ -397,6 +435,8 @@ Username,"ಬಳಕೆದಾರ ಹೆಸರು"
 Password,ಗುಪ್ತಪದ
 password,ಗುಪ್ತಪದ
 "Sign in","ಸೈನ್ ಇನ್"
+"No Data Found","ಯಾವುದೇ ದತ್ತಾಂಶ ಕಂಡುಬಂದಿಲ್ಲ"
+"Last Orders","ಹಿಂದಿನ ವ್ಯಾಪಾರಾದೇಶಗಳು"
 "All Websites","ಎಲ್ಲಾ ಜಾಲತಾಣಗಳು"
 "Account Setting","ಖಾತೆ ಸಂಯೋಜನೆ"
 "Customer View","ಗ್ರಾಹಕರ ನೋಟ"
@@ -409,6 +449,7 @@ Time,ಸಮಯ
 Hour,ಗಂಟೆ
 Minute,ನಿಮಿಷ
 "Privacy Policy","ಗೌಪ್ಯತಾ ನೀತಿ"
+"Report an Issue","ದೋಷವನ್ನು ವರದಿ ಮಾಡಿ"
 Scope:,ವ್ಯಾಪ್ತಿ:
 "Stores Configuration","ಮಳಿಗೆಗಳ ಸಂರಚನೆ"
 "No records found.","ಯಾವುದೇ ದಾಖಲೆಗಳು ಕಂಡುಬಂದಿಲ್ಲ."
@@ -435,6 +476,7 @@ Marketing,ವ್ಯಾಪಾರೋದ್ಯಮ
 Content,ವಿಷಯ
 Elements,ಘಟಕಗಳು
 Design,ವಿನ್ಯಾಸ
+"Content translation",ವಿಷಯಾನುವಾದ
 Settings,ಸಂಯೋಜನೆಗಳು
 Attributes,ಗುಣವಿಶೇಷಗಳು
 "Other Settings","ಇತರೆ ಸಂಯೋಜನೆಗಳು"
@@ -450,9 +492,11 @@ Advanced,ಸುಧಾರಿತ
 "General Contact","ಸಾಮಾನ್ಯ ಸಂಪರ್ಕ"
 "Customer Support","ಗ್ರಾಹಕ ಸೇವೆ"
 "Template Settings","ಮಾದರಿಯ ಸಂಯೋಜನೆಗಳು"
+"JavaScript Settings","JavaScript ಸಂಯೋಜನೆಗಳು"
 "CSS Settings","CSS ಸಂಯೋಜನೆಗಳು"
 Timezone,"ಸಮಯದ ವಲಯ"
 Locale,‍ಸ್ಥಳೀಯ
+"First Day of Week","ವಾರದ ಮೊದಲ ದಿನ"
 "Weekend Days","ವಾರಾಂತ್ಯದ ದಿನಗಳು"
 "Store Name","ಮಳಿಗೆ ಹೆಸರು"
 "Store Phone Number","ಮಳಿಗೆ ದೂರವಾಣಿ ಸಂಖ್ಯೆ"
@@ -464,12 +508,17 @@ City,ನಗರ
 "Street Address","ಬೀದಿ ವಿಳಾಸ"
 "Street Address Line 2","ಬೀದಿ ವಿಳಾಸದ 2ನೇ ಸಾಲು"
 "VAT Number","VAT ಸಂಖ್ಯೆ"
+"Single-Store Mode","ಏಕ-ಮಳಿಗೆ ಪ್ರಕಾರ"
+"Disable Email Communications","ಮಿಂಚೆ ಸಂವಹನಗಳನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಿ"
 "Maximum Width","ಗರಿಷ್ಟ ಅಗಲ"
 "Maximum Height","ಗರಿಷ್ಟ ಎತ್ತರ"
 Security,ಸುರಕ್ಷತೆ
+Web,ಜಾಲತಾಣ
+"Url Options","Url ಆಯ್ಕೆಗಳು"
 "Default Pages","ನಿಯೋಜಿತ ಪುಟಗಳು"
 Description,ವಿವರಣೆ
 Tags,ಟ್ಯಾಗ್‌ಗಳು
+"<h1 class=""page-heading"">404 Error</h1><p>Page not found.</p>","<h1 class=""page-heading"">404 ದೋಷ</h1><p>ಪುಟ ಕಂಡುಬಂದಿಲ್ಲ.</p>"
 "Community Edition","ಸಮುದಾಯ ಆವೃತ್ತಿ"
 "Default Theme","ನಿಯೋಜಿತ ಥೀಮ್"
 "Applied Theme","ಅನ್ವಯಿಸಿದ ಥೀಮ್"
@@ -508,14 +557,15 @@ Exclude,ಹೊರತುಪಡಿಸಿ
 "Backup Settings","ಬ್ಯಾಕಪ್ ಸಂಯೋಜನೆಗಳು"
 "Enable Backup","ಬ್ಯಾಕಪ್ ಸಕ್ರಿಯಗೊಳಿಸಿ"
 Frequency,ಆವರ್ತನ
+"Maintenance Mode","ನಿರ್ವಹಣಾ ವಿಧಾನ"
 "Are you sure you want to delete the selected backup(s)?","ಆಯ್ಕೆಮಾಡಿದ ಬ್ಯಾಕಪ್‍ಗಳನ್ನು ಅಳಿಸಲು ಬಯಸುವಿರಾ?"
 Type,ವಿಧ
 Download,ಡೌನ್‍ಲೋಡ್
 "Save and Continue Edit","ಉಳಿಸಿ ಮತ್ತು ಸಂಪಾದನೆಯನ್ನು ಮುಂದುವರೆಸಿ"
-"Are you sure you want to do this?","ಇದನ್ನು ಮಾಡಲು ನೀವು ಖಚಿತವಾಗಿ ಬಯಸುವಿರಾ?"
 "Default Content","ನಿಯೋಜಿತ ವಿಷಯ"
 "No Default Content","ನಿಯೋಜಿತ ವಿಷಯವಿಲ್ಲ"
 "Use Default","ನಿಯೋಜಿತವಾದುದನ್ನು ಬಳಸಿ"
+"Related Promotions","ಸಂಬಂಧಿತ ಜಾಹೀರಾತುಗಳು"
 Rule,ನಿಯಮ
 "Start Date","ಪ್ರಾರಂಭದ ದಿನಾಂಕ"
 "End Date","ಅಂತ್ಯದ ದಿನಾಂಕ"
@@ -526,10 +576,15 @@ Inactive,ನಿಷ್ಕ್ರಿಯ
 Position,ಸ್ಥಾನ
 "This rule no longer exists.","ಈ ನಿಯಮವು ಈಗ ಅಸ್ತಿತ್ವದಲ್ಲಿರುವುದಿಲ್ಲ."
 "You saved the dynamic block.","ನೀವು ಕ್ರಿಯಾಶೀಲ ಬ್ಲಾಕ್ ಅನ್ನು ಉಳಿಸಿದ್ದೀರಿ."
+"Invalid Request","ಅಸಿಂಧುವಾದ ವಿನಂತಿ"
 "Please enter a name.","ದಯವಿಟ್ಟು ಹೆಸರೊಂದನ್ನು ನಮೂದಿಸಿ."
 "-- None --","-ಯಾವುದೂ ಇಲ್ಲ-"
+"Invalid content","ಅಸಿಂಧುವಾದ ವಿಷಯ"
 Footer,ಅಡಿಬರಹ
 Header,ತಲೆಬರಹ
+"Left Column","ಏಡಬದಿ ಕಾಲಂ"
+"Right Column","ಬಲಬದಿ ಕಾಲಂ"
+"General Information","ಸಾಮಾನ್ಯ ಮಾಹಿತಿ"
 "Add Cart Price Rules","ಶಾಪಿಂಗ್ ಬುಟ್ಟಿಯ ನಿಯಮಗಳನ್ನು ಸೇರಿಸಿ"
 "Add Selected","ಆರಿಸಿದವುಗಳನ್ನು ಸೇರಿಸಿ"
 Visibility,ಗೋಚರತೆ
@@ -1117,7 +1172,9 @@ Closed,ಮುಚ್ಚಿದ
 Hrs,ಘಂಟೆಗಳು
 Mins,ನಿಮಿಷಗಳು
 Sec,ಸೆಕೆಂಡುಗಳು
+"Preview Sale","ಮುನ್ನೋಟ ಮಾರಾಟ"
 Days,ದಿನಗಳು
+"Category ID","ವಿಭಾಗ ID"
 Start,ಪ್ರಾರಂಭಿಸಿ
 End,ಕೊನೆಗೊಳಿಸಿ
 """model"" value should be specified","""model"" ನಮೂದನ್ನು ಸೂಚಿಸಲೇ ಬೇಕು"
@@ -1133,6 +1190,7 @@ End,ಕೊನೆಗೊಳಿಸಿ
 "The fewest you may purchase is %1.","ನೀವು ಖರೀದಿಸಬಹುದಾದ ಕನಿಷ್ಟ ಸಂಖ್ಯೆ %1."
 "The most you may purchase is %1.","ನೀವು ಖರೀದಿಸಬಹುದಾದ ಗರಿಷ್ಟ ಸಂಖ್ಯೆ %1."
 "The requested qty is not available","ವಿನಂತಿಸಿದ ಪರಿಮಾಣ ಲಭ್ಯವಿಲ್ಲ"
+"You can buy this product only in quantities of %1 at a time.","ನೀವು ಈ ಉತ್ಪನ್ನವನ್ನು ಒಂದು ಬಾರಿಗೆ %1 ರ ಪರಿಮಾಣದಲ್ಲಿ ಮಾತ್ರ ಖರೀದಿಸಬಹುದು."
 "Stock Status","ದಾಸ್ತಾನು ಸ್ಥಿತಿಗತಿ"
 "Advanced Inventory","ಸುಧಾರಿತ ದಾಸ್ತಾನುಪಟ್ಟಿ"
 "Only %1 left","ಕೇವಲ %1 ಉಳಿದಿದೆ"
@@ -1140,6 +1198,7 @@ End,ಕೊನೆಗೊಳಿಸಿ
 "Inventory Section","ದಾಸ್ತಾನುಪಟ್ಟಿ ವಿಭಾಗ"
 "Stock Options","ದಾಸ್ತಾನು ಆಯ್ಕೆಗಳು"
 "Product Stock Options","ಉತ್ಪನ್ನದ ದಾಸ್ತಾನು ಆಯ್ಕೆಗಳು"
+"Out-of-Stock Threshold","ದಾಸ್ತಾನಿನಲ್ಲಿಲ್ಲದ ಮಿತಿ"
 "New Permission","ಹೊಸ ಅನುಮತಿ"
 "You already have a permission with this scope.","ಈ ವ್ಯಾಪಿಯೊಡನೆ ನೀವ್ಬು ಅನುಮತಿಯನ್ನು ಈಗಾಗಲೇ ಹೊಂದಿದ್ದೀರಿ."
 "Category Permissions","ವಿಭಾಗದ ಅನುಮತಿಗಳು"
@@ -1153,10 +1212,12 @@ Allow,ಅನುಮತಿಸಿ
 Deny,ನಿರಾಕರಿಸಿ
 "Delete Rule","ನಿಯಮವನ್ನು ಅಳಿಸಿ"
 "Save and Apply","ಉಳಿಸಿ ಮತ್ತು ಅನ್ವಯಿಸಿ"
+"Catalog Price Rule","ಶಾಪಿಂಗ್ ಬುಟ್ಟಿ ದರದ ನಿಯಮ"
 "Add New Rule","ಹೊಸ ನಿಯಮವನ್ನು ಸೇರಿಸಿ"
 "Apply Rules","ನಿಯಮಗಳನ್ನು ಅನ್ವಯಿಸಿ"
 Conditions,ನಿಯಮಗಳು
 Promotions,ಜಾಹೀರಾತುಗಳು
+"We can't apply the rules.","ನಮಗೆ ನಿಯಮಗಳನ್ನು ಅನ್ವಯಿಸಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ."
 "You deleted the rule.","ನೀವು ನಿಯಮವನ್ನು ಅಳಿಸಿದ್ದೀರಿ."
 "Edit Rule","ನಿಯಮವನ್ನು ಸಂಪಾದಿಸಿ"
 "New Rule","ಹೊಸ ನಿಯಮ"
@@ -1167,8 +1228,14 @@ Promo,ಜಾಹೀರಾತು
 "Unknown action.","ಅನಾಮಿಕ ಕ್ರಿಯೆ."
 "Update the Product","ಉತ್ಪನ್ನವನ್ನು ಪರಿಷ್ಕರಿಸಿ"
 "Rule price","ನಿಯಮದ ದರ"
+"To Fixed Value","ನಿಗದಿತ ದರಕ್ಕೆ"
+"By Fixed value","ನಿಗದಿತ ದರದಂತೆ"
 "Update product's %1 %2: %3","ಉತ್ಪನ್ನವನ್ನು ಪರಿಷ್ಕರಿಸಿ %1 %2: %3"
 "Apply as fixed amount","ಸ್ಥಿರ ಮೊತ್ತದಂತೆ ಅನ್ವಯಿಸಿ"
+"Conditions Combination","ನಿಯಮಗಳ ಸಂಯೋಜನೆ"
+"Product Attribute","ಉತ್ಪನ್ನದ ಗುಣವಿಶೇಷ"
+"Updated rules applied.","ಪರಿಷ್ಕೃತ ನಿಯಮ ಅನ್ವಯವಾಗಿದೆ."
+"Catalog Product Rule","ಕ್ಯಾಟಲಾಗ್ ಉತ್ಪನ್ನದ ನಿಯಮ"
 "Rule Information","ನಿಯಮದ ಮಾಹಿತಿ"
 "Rule Name","ನಿಯಮದ ಹೆಸರು"
 Priority,ಆದ್ಯತೆ
@@ -1193,7 +1260,6 @@ Preview,ಮುನ್ನೋಟ
 "Currently Active","ಪ್ರಸ್ತುತ ಸಕ್ರಿಯವಾಗಿದೆ"
 Path,ಪಥ
 "Invalid URL key","ಅಸಿಂಧುವಾದ URL ಕೀ"
-"Conditions Combination","ನಿಯಮಗಳ ಸಂಯೋಜನೆ"
 "List of Products","ಉತ್ಪನ್ನಗಳ ಪಟ್ಟಿ"
 "Invalid method: %1","ಅಸಿಂಧುವಾದ ವಿಧಾನ: %1"
 "My Cart (1 item)","ನನ್ನ ಶಾಪಿಂಗ್ ಬುಟ್ಟಿ(1 item)"
@@ -1233,7 +1299,6 @@ Checkout,ಚೆಕೌಟ್
 "Quantity was recalculated from %1 to %2","ಪರಿಮಾಣವನ್ನು %1 ರಿಂದ %2 ಗೆ ಮರುಲೆಕ್ಕಹಾಕಲಾಗಿದೆ"
 "Display number of items in cart","ಶಾಪಿಂಗ್ ಬುಟ್ಟಿಯಲ್ಲಿನ ವಸ್ತುಗಳ ಸಂಖ್ಯೆಯನ್ನು ಪ್ರದರ್ಶಿಸಿ"
 "Display item quantities","ವಸ್ತುವಿನ ಪರಿಮಾಣವನ್ನು ಪ್ರದರ್ಶಿಸಿ"
-"An error occurred on the server. Please try to place the order again.","ಸರ್ವರ್ ನಲ್ಲಿ ದೋಷವುಂಟಾಗಿದೆ. ದಯವಿಟ್ಟು ನಿಮ್ಮ ವ್ಯಾಪಾರಾದೇಶವನ್ನು ಮತ್ತೊಮ್ಮೆ ಸಲ್ಲಿಸಿ."
 "A server error stopped your order from being placed. Please try to place your order again.","ಸರ್ವರ್ ದೋಷದಿಂದಾಗಿ ನಿಮ್ಮ ವ್ಯಾಪಾರಾದೇಶವನ್ನು ಸಲ್ಲಿಸಲಾಗಲಿಲ್ಲ. ದಯವಿಟ್ಟು ನಿಮ್ಮ ವ್ಯಾಪಾರಾದೇಶವನ್ನು ಮತ್ತೊಮ್ಮೆ ಸಲ್ಲಿಸಿ."
 "The shipping information was unable to be saved. Error: ""%message""","ರವಾನೆ ಮಾಹಿತಿಯನ್ನು ಉಳಿಸಲು ಸಾಧ್ಯವಾಗಿಲ್ಲ. ದೋಷ: ""%message"""
 "The shipping information was unable to be saved. Verify the input data and try again.","ರವಾನೆ ಮಾಹಿತಿಯನ್ನು ಉಳಿಸಲು ಸಾಧ್ಯವಾಗಿಲ್ಲ. ನಮೂದಿಸಿರುವ ದತ್ತಾಂಶವನ್ನು ಪರಿಶೀಲಿಸಿ ಮತ್ತು ಮತ್ತೊಮ್ಮೆ ಪ್ರಯತ್ನಿಸಿ."
@@ -1442,7 +1507,6 @@ View,ನೋಟ
 "Select Page...","ಪುಟವನ್ನು ಆರಿಸಿ..."
 Block,ಬ್ಲಾಕ್‍
 "Select Block...","ಬ್ಲಾಕ್ ಅನ್ನು ಆರಿಸಿ..."
-"General Information","ಸಾಮಾನ್ಯ ಮಾಹಿತಿ"
 "Enable Block","ಬ್ಲಾಕ್ ಅನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ"
 "Block Title","ಬ್ಲಾಕ್ ಶೀರ್ಷಿಕೆ"
 "Are you sure you want to delete selected items?","ಆಯ್ಕೆಮಾಡಿದ ವಸ್ತುಗಳನ್ನು ಅಳಿಸಲು ಬಯಸುವಿರಾ?"
@@ -2371,7 +2435,6 @@ History,ಇತಿಹಾಸ
 "You saved the gift card account, but an email was not sent.","ನೀವು ಗಿಫ್ಟ್ ಕಾರ್ಡ್ ಖಾತೆಯನ್ನು ಉಳಿಸಿದ್ದೀರಿ, ಆದರೆ ಮಿಂಚೆಯನ್ನು ಕಳುಹಿಸಲಾಗಲಿಲ್ಲ."
 "Gift Card ""%1"" was added.","ಗಿಫ್ಟ್ ಕಾರ್ಡ್ %1 ಅನ್ನು ಸೇರಿಸಲಾಗಿದೆ."
 "We cannot apply this gift card.","ನಾವು ಈ ಗಿಫ್ಟ್ ಕಾರ್ಡ್ ಅನ್ನು ಅನ್ವಯಿಸಲಾಗುವುದಿಲ್ಲ."
-"Invalid Request","ಅಸಿಂಧುವಾದ ವಿನಂತಿ"
 "Gift Card ""%1"" was removed.","ಗಿಫ್ಟ್ ಕಾರ್ಡ್ %1 ಅನ್ನು ತೆಗೆದುಹಾಕಲಾಗಿದೆ."
 "You can't remove this gift card.","ಈ ಗಿಫ್ಟ್ ಕಾರ್ಡ್ ಅನ್ನು ನೀವು ತೆಗೆದುಹಾಕಲು ಸಾಧ್ಯವಿಲ್ಲ."
 "Could not save the gift card account.","ಗಿಫ್ಟ್ ಕಾರ್ಡ್ ಖಾತೆಯನ್ನು ಉಳಿಸಲಾಗಲಿಲ್ಲ."
@@ -3497,7 +3560,6 @@ Refunds,ಮರುಪಾವತಿಗಳು
 "Are you sure you want to delete this?","ನೀವು ಇದನ್ನು ಖಚಿತವಾಗಿಯೂ ಅಳಿಸಬಯಸುವಿರಾ?"
 "Apply To","ಗೆ ಅನ್ವಯಿಸುತ್ತದೆ"
 "New Cart Price Rule","ಹೊಸ ಶಾಪಿಂಗ್ ಬುಟ್ಟಿ ದರದ ನಿಯಮ"
-"Product Attribute","ಉತ್ಪನ್ನದ ಗುಣವಿಶೇಷ"
 "total quantity","ಒಟ್ಟು ಪರಿಮಾಣ"
 "total amount","ಒಟ್ಟು ಮೊತ್ತ"
 "Your coupon was successfully applied.","ನಿಮ್ಮ ಕೊಡುಗೆ ಅಂಕವನ್ನು ಯಶಸ್ವಿಯಾಗಿ ಅನ್ವಯಿಸಲಾಗಿದೆ."
@@ -3506,7 +3568,6 @@ Promotion,ಜಾಹೀರಾತು
 Labels,ಲೇಬಲ್
 "Not enough arguments","ಅಗತ್ಯವಿರುವಷ್ಟು ಆರ್ಗುಮೆಂಟ್‍ಗಳಿಲ್ಲ"
 "Fatal Error","ಪ್ರಮಾದಕರ ದೋಷ"
-"Out-of-Stock Threshold","ದಾಸ್ತಾನಿನಲ್ಲಿಲ್ಲದ ಮಿತಿ"
 "Stock Availability","ದಾಸ್ತಾನಿನ ಲಭ್ಯತೆ"
 "Add Scheduled Export","ನಿಗದಿತ ರಫ್ತುಗಳನ್ನು ಸೇರಿಸಿ"
 "Add Scheduled Import","ನಿಗದಿತ ಆಮದುಗಳನ್ನು ಸೇರಿಸಿ"
@@ -3939,7 +4000,6 @@ Keyword,ಮುಖ್ಯಪದ
 "Please enter a valid value, ex: 10,20,30","ದಯವಿಟ್ಟು ಮಾನ್ಯವಾದ ಅಂಕೆಯೊಂದನ್ನು ನಮೂದಿಸಿ: ಉದಾ: 10,20,30"
 "Please enter a quantity greater than 0.","ದಯವಿಟ್ಟು 0 ಗಿಂತಾ ಹೆಚ್ಚಿನ ಪರಿಮಾಣವನ್ನು ನಮೂದಿಸಿ."
 "The maximum you may purchase is %1.","ನೀವು ಖರೀದಿಸಬಹುದಾದ ಗರಿಷ್ಟ ಸಂಖ್ಯೆ %1."
-"You can buy this product only in quantities of %1 at a time.","ನೀವು ಈ ಉತ್ಪನ್ನವನ್ನು ಒಂದು ಬಾರಿಗೆ %1 ರ ಪರಿಮಾಣದಲ್ಲಿ ಮಾತ್ರ ಖರೀದಿಸಬಹುದು."
 "The date is not within the specified range.","ದಿನಾಂಕ ನಿಗದಿತ ವ್ಯಾಪ್ತಿಯೊಳಗಿಲ್ಲ."
 Attention,ಗಮನ
 Commercial,ವಾಣಿಜ್ಯ
