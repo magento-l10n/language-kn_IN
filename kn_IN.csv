@@ -1313,10 +1313,8 @@ End,ಕೊನೆಗೊಳಿಸಿ
 "Unable to remove Stock with id ""%1""","""%1"" ಐಡಿಯೊಂದಿಗಿನ ದಾಸ್ತಾನನ್ನು ತೆಗೆದುಹಾಕಲು ಸಾಧ್ಯವಾಗಿಲ್ಲ"
 "The stock status was unable to be saved. Please try again.","ದಾಸ್ತಾನು ಸ್ಥಿತಿಯನ್ನು ಉಳಿಸಲು ಸಾಧ್ಯವಾಗಿಲ್ಲ. ದಯವಿಟ್ಟು ನಂತರ ಪ್ರಯತ್ನಿಸಿ."
 "Unable to remove Stock Status for product %1","%1 ಉತ್ಪನ್ನದ ದಾಸ್ತಾನು ಸ್ಥಿತಿಯನ್ನು ತೆಗೆದುಹಾಕಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ"
-"Not all of your products are available in the requested quantity.","ನಿಮ್ಮ ಎಲ್ಲಾ ಉತ್ಪನ್ನಗಳು ವಿನಂತಿಸಿದ ಪರಿಮಾಣದಲ್ಲಿ ಲಭ್ಯವಿಲ್ಲ."
-"The fewest you may purchase is %1.","ನೀವು ಖರೀದಿಸಬಹುದಾದ ಕನಿಷ್ಟ ಸಂಖ್ಯೆ %1."
 "Please correct the quantity for some products.","ದಯವಿಟ್ಟು ಕೆಲವು ಉತ್ಪನ್ನಗಳ ಪರಿಮಾಣವನ್ನು ಸರಿಪಡಿಸಿ."
-"The most you may purchase is %1.","ನೀವು ಖರೀದಿಸಬಹುದಾದ ಗರಿಷ್ಟ ಸಂಖ್ಯೆ %1."
+"The fewest you may purchase is %1.","ನೀವು ಖರೀದಿಸಬಹುದಾದ ಕನಿಷ್ಟ ಸಂಖ್ಯೆ %1."
 "The requested qty is not available","ವಿನಂತಿಸಿದ ಪರಿಮಾಣ ಲಭ್ಯವಿಲ್ಲ"
 "You can buy %1 only in quantities of %2 at a time.","ನೀವು %1 ನ್ನು ಒಂದು ಬಾರಿಗೆ %2 ರ ಪರಿಮಾಣದಲ್ಲಿ ಮಾತ್ರ ಖರೀದಿಸಬಹುದು."
 "You can buy this product only in quantities of %1 at a time.","ನೀವು ಈ ಉತ್ಪನ್ನವನ್ನು ಒಂದು ಬಾರಿಗೆ %1 ರ ಪರಿಮಾಣದಲ್ಲಿ ಮಾತ್ರ ಖರೀದಿಸಬಹುದು."
@@ -1443,7 +1441,6 @@ Path,ಪಥ
 "Catalog Products List","ಕ್ಯಾಟಲಾಗ್ ಉತ್ಪನ್ನಗಳ ಪಟ್ಟಿ"
 "List of Products","ಉತ್ಪನ್ನಗಳ ಪಟ್ಟಿ"
 "Products Grid Template","ಉತ್ಪನ್ನಗಳ ಗ್ರಿಡ್ ಮಾದರಿ"
-"Invalid method: %1","ಅಸಿಂಧುವಾದ ವಿಧಾನ: %1"
 "My Cart (1 item)","ನನ್ನ ಶಾಪಿಂಗ್ ಬುಟ್ಟಿ(1 item)"
 "My Cart (%1 items)","ನನ್ನ ಶಾಪಿಂಗ್ ಬುಟ್ಟಿ (%1 items)"
 "My Cart","ನನ್ನ ಶಾಪಿಂಗ್ ಬುಟ್ಟಿ"
@@ -1494,6 +1491,7 @@ Checkout,ಚೆಕೌಟ್
 "There are more than one shipping addresses.","ಒಂದಕ್ಕಿಂತ ಹೆಚ್ಚು ರವಾನೆ ವಿಳಾಸಗಳಿವೆ."
 "Sorry, guest checkout is not available.","ಕ್ಷಮಿಸಿ, ಅತಿಥಿ ಚೆಕೌಟ್ ಲಭ್ಯವಿಲ್ಲ."
 "You must confirm your account. Please check your email for the confirmation link or <a href=""%1"">click here</a> for a new link.","ನೀವು ನಿಮ್ಮ ಖಾತೆಯನ್ನು ದೃಢೀಕರಿಸಬೇಕು. ದೃಢೀಕರಣದ ಕೊಂಡಿಗಾಗಿ ದಯವಿಟ್ಟು ನಿಮ್ಮ ಮಿಂಚೆಯನ್ನು ಪರೀಕ್ಷಿಸಿ ಅಥವಾ ಹೊಸ ಕೊಂಡಿಗಾಗಿ <a href=""%1"">ಇಲ್ಲಿ ಕ್ಲಿಕ್ ಮಾಡಿ</a>."
+"Invalid method: %1","ಅಸಿಂಧುವಾದ ವಿಧಾನ: %1"
 Error!,ದೋಷ!
 "Print receipt","ರಸೀದಿಯನ್ನು ಮುದ್ರಿಸಿ"
 "Apply Discount Code","ರಿಯಾಯಿತಿ ಕೋಡನ್ನು ಅನ್ವಯಿಸಿ"
@@ -1972,9 +1970,9 @@ Select,ಆಯ್ಕೆಮಾಡಿ
 "Choose a different Product","ಬೇರೊಂದು ಉತ್ಪನ್ನವನ್ನು ಆರಿಸಿ"
 "Buy %1 for %2 each and","ಪ್ರತಿ %2 ಗಾಗಿ %1 ಖರೀದಿಸಿ ಮತ್ತು"
 save,ಉಳಿಸಿ
-"New Product Review","ಹೊಸ ಉತ್ಪನ್ನದ ವಿಮರ್ಶೆ"
 "Disable Product","ಉತ್ಪನ್ನವನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಿ"
 "Enable Product","ಉತ್ಪನ್ನ ಸಕ್ರಿಯಗೊಳಿಸಿ"
+"New Product Review","ಹೊಸ ಉತ್ಪನ್ನದ ವಿಮರ್ಶೆ"
 "Attribute Label","ಗುಣವಿಶೇಷ ಲೇಬಲ್"
 Searchable,ಹುಡುಕಬಹುದಾದ
 "As low as: ","ಅತಿ ಕಡಿಮೆ: "
@@ -3234,7 +3232,6 @@ Updated:,ಪರಿಷ್ಕರಿಸಿದ:
 Create...,ರಚಿಸಿ...
 "Your billing agreement # is: ","ನಿಮ್ಮ ಬಿಲ್ಲಿಂಗ್ ಒಪ್ಪಂದ #: "
 "Please select a shipping method...","ದಯವಿಟ್ಟು ರವಾನೆ ವಿಧಾನವನ್ನು ಆರಿಸಿ..."
-"Update Shipping Method","ರವಾನೆ ವಿಧಾನವನ್ನು ಪರಿಷ್ಕರಿಸಿ"
 "Buy now with PayPal","ಈಗ PayPal ನೊಂದಿಗೆ ಖರೀದಿಸಿ"
 "Edit Payment Information","ಪಾವತಿ ಮಾಹಿತಿಯನ್ನು ಸಂಪಾದಿಸಿ"
 "Items in Your Shopping Cart","ನಿಮ್ಮ ಶಾಪಿಂಗ್ ಬುಟ್ಟಿಯಲ್ಲಿನ ವಸ್ತುಗಳು"
@@ -3255,6 +3252,7 @@ Manage,ನಿರ್ವಹಿಸಿ
 Display,ಪ್ರದರ್ಶಿಸಿ
 Size,ಗಾತ್ರ
 "Checkout Cart Page","ಬುಟ್ಟಿ ಚೆಕೌಟ್ ಪುಟ"
+Color,ಬಣ್ಣ
 "Display on Product Details Page","ಉತ್ಪನ್ನದ ವಿವರಗಳ ಪುಟದಲ್ಲಿ ಪ್ರದರ್ಶಿಸಿ"
 "Enable SSL verification","SSL ಪರಿಶೀಲನೆಯನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ"
 "PayPal Billing Agreement Settings","PayPal ಬಿಲ್ಲಿಂಗ್ ಒಪ್ಪಂದದ ಸಂಯೋಜನೆಗಳು"
@@ -3266,7 +3264,6 @@ Size,ಗಾತ್ರ
 "Page Background Color","ಪುಟದ ಹಿನ್ನೆಲೆ ಬಣ್ಣ"
 "Checkout Page","ಚೆಕೌಟ್ ಪುಟ"
 Shape,ಆಕಾರ
-Color,ಬಣ್ಣ
 "Product Pages","ಉತ್ಪನ್ನದ ಪುಟಗಳು"
 "Cart Page","ಶಾಪಿಂಗ್ ಬುಟ್ಟಿ ಪುಟ"
 Features,ವೈಶಿಷ್ಟ್ಯಗಳು
@@ -3687,7 +3684,6 @@ Complete,ಪೂರ್ಣಗೊಂಡಿದೆ
 "Product doesn't exist","ಈ ಉತ್ಪನ್ನ ಅಸ್ತಿತ್ವದಲ್ಲಿಲ್ಲ"
 "Email has not been sent","ಮಿಂಚೆಯನ್ನು ಕಳುಹಿಸಲಾಗಿಲ್ಲ"
 "Authorized amount of %1","ದೃಢೀಕರಿಸಿದ ಮೊತ್ತ %1"
-" Transaction ID: ""%1"""," ವಹಿವಾಟಿನ ID: ""%1"""
 "Sample message.","ನಮೂನೆ ಸಂದೇಶ."
 "Add to address book","ವಿಳಾಸಪಟ್ಟಿಯಲ್ಲಿ ಉಳಿಸಿ"
 "Customer's Activities","ಗ್ರಾಹಕರ ಚಟುವಟಿಕೆಗಳು"
@@ -3904,8 +3900,8 @@ Includes,ಒಳಗೊಂಡಿದೆ
 "The website wasn't found. Verify the website and try again.","ಜಾಲತಾಣವು ಕಂಡುಬಂದಿಲ್ಲ. ಜಾಲತಾಣವನ್ನು ಪರಿಶೀಲಿಸಿ ಮತ್ತು ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ."
 "The group wasn't found. Verify the group and try again.","ಗುಂಪು ಕಂಡುಬಂದಿಲ್ಲ. ಗುಂಪನ್ನು ಪರಿಶೀಲಿಸಿ ಮತ್ತು ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ."
 "The store wasn't found. Verify the store and try again.","ಮಳಿಗೆ ಕಂಡುಬಂದಿಲ್ಲ. ಮಳಿಗೆಯನ್ನು ಪರಿಶೀಲಿಸಿ ಮತ್ತು ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ."
-"Name is required","ಹೆಸರೊಂದು ಅಗತ್ಯವಿದೆ"
 "Store is inactive","ಮಳಿಗೆಯು ನಿಷ್ಕ್ರಿಯವಾಗಿದೆ"
+"Name is required","ಹೆಸರೊಂದು ಅಗತ್ಯವಿದೆ"
 "Your Language:","ನಿಮ್ಮ ಭಾಷೆ:"
 "Your Language","ನಿಮ್ಮ ಭಾಷೆ"
 Language,ಭಾಷೆ
@@ -4205,8 +4201,6 @@ Keyword,ಮುಖ್ಯಪದ
 "Please enter a valid URL Key (Ex: ""example-page"", ""example-page.html"" or ""anotherlevel/example-page"").","ದಯವಿಟ್ಟು ಸರಿಯಾದ URL ಕೀಯನ್ನು ನಮೂದಿಸಿ (ಉದಾ: ""example-page"", ""example-page.html"" or ""anotherlevel/example-page"")."
 "Please enter a valid zip code.","ದಯವಿಟ್ಟು ಸರಿಯಾದ ಪಿನ್ ಕೋಡ್ ಅನ್ನು ನಮೂದಿಸಿ."
 "Please select State/Province.","ದಯವಿಟ್ಟು ರಾಜ್ಯ ವನ್ನು ಆರಿಸಿಕೊಳ್ಳಿ."
-"Please enter a value less than or equal to {0}.","ದಯವಿಟ್ಟು {0} ಕ್ಕೆ ಸಮನಾದ ಅಥವಾ ಅದಕ್ಕಿಂತ ಕಡಿಮೆ ನಮೂದನ್ನು ನಮೂದಿಸಿ."
-"Please enter a value greater than or equal to {0}.","ದಯವಿಟ್ಟು {0} ಕ್ಕೆ ಸಮನಾದ ಅಥವಾ ಅದಕ್ಕಿಂತ ಹೆಚ್ಚಾದ ನಮೂದನ್ನು ನಮೂದಿಸಿ."
 "Please enter valid email addresses, separated by commas. For example, johndoe@domain.com, johnsmith@domain.com.","ದಯವಿಟ್ಟು ಸರಿಯಾದ, ಕಾಮಾದಿಂದ ಪ್ರತ್ಯೇಕಿಸಿದ ಮಿಂಚೆ ವಿಳಾಸಗಳನ್ನು ನಮೂದಿಸಿ ಉದಾಹರಣೆಗೆ, johndoe@domain.com, johnsmith@domain.com."
 "Please enter issue number or start date for switch/solo card type.","Switch/solo ಕಾರ್ಡ್ ವಿಧಕ್ಕಾಗಿ ದಯವಿಟ್ಟು ವಿವಾದಾಂಶ ಸಂಖ್ಯೆ ಅಥವಾ ಪ್ರಾರಂಭದ ದಿನಾಂಕವನ್ನು ನಮೂದಿಸಿ."
 "Please enter positive number in this field.","ದಯವಿಟ್ಟು ಧನಾತ್ಮಕ ಅಂಕೆಯನ್ನು ಈ ವಲಯದಲ್ಲಿ ನಮೂದಿಸಿ."
@@ -4612,7 +4606,6 @@ Debug,ಡೀಬಗ್
 "Invoice for your %store_name order","ನಿಮ್ಮ %store_name ವ್ಯಾಪಾರಾದೇಶದ ಬೆಲೆಪಟ್ಟಿ"
 "Your Invoice #%invoice_id for Order #%order_id","ನಿಮ್ಮ ವ್ಯಾಪಾರಾದೇಶ #%order_id ಕ್ಕಾಗಿ ಬೆಲೆಪಟ್ಟಿ #%invoice_id"
 "Your Shipment #%shipment_id for Order #%order_id","ನಿಮ್ಮ ವ್ಯಾಪಾರಾದೇಶ #%order_id ಕ್ಕೆ ರವಾನೆ #%sreditmemo_id"
-"Warning: No message defined for %s","ಗಮನಿಸಿ: %s ಕ್ಕೆ ಯಾವುದೇ ಸಂದೇಶವನ್ನು ಸೂಚಿಸಲಾಗಿಲ್ಲ"
 "Backup options","ಬ್ಯಾಕಪ್ ಆಯ್ಕೆಗಳು"
 Warning,ಎಚ್ಚರಿಕೆ
 "The widget %1 is no longer available. Select a different widget.","%1 ವಿಜೆಟ್ ಲಭ್ಯವಿರುವುದಿಲ್ಲ. ಬೇರೆಯ ವಿಜೆಟ್ ಅನ್ನು ಆರಿಸಿ."
@@ -4652,6 +4645,8 @@ Translate,ಅನುವಾದಿಸಿ
 "Please enter at least {0} characters.","ದಯವಿಟ್ಟು ಕನಿಷ್ಟ {0} ಅಕ್ಷರಗಳನ್ನು ನಮೂದಿಸಿ."
 "Please enter a value between {0} and {1} characters long.","ದಯವಿಟ್ಟು {0} ಮತ್ತು {1} ನಡುವಿನ ಬೆಲೆಯನ್ನು ನಮೂದಿಸಿ."
 "Please enter a value between {0} and {1}.","ದಯವಿಟ್ಟು {0} ಮತ್ತು {1} ನಡುವಿನ ಬೆಲೆಯನ್ನು ನಮೂದಿಸಿ."
+"Please enter a value less than or equal to {0}.","ದಯವಿಟ್ಟು {0} ಕ್ಕೆ ಸಮನಾದ ಅಥವಾ ಅದಕ್ಕಿಂತ ಕಡಿಮೆ ನಮೂದನ್ನು ನಮೂದಿಸಿ."
+"Please enter a value greater than or equal to {0}.","ದಯವಿಟ್ಟು {0} ಕ್ಕೆ ಸಮನಾದ ಅಥವಾ ಅದಕ್ಕಿಂತ ಹೆಚ್ಚಾದ ನಮೂದನ್ನು ನಮೂದಿಸಿ."
 "Please specify the quantity of product(s).","ದಯವಿಟ್ಟು ಉತ್ಪನ್ನದ(ಗಳ) ಪರಿಮಾಣವನ್ನು ಸೂಚಿಸಿ."
 "Please enter a date between %min and %max.","ದಯವಿಟ್ಟು %min ಮತ್ತು %max ನಡುವಿನ ದಿನಾಂಕವನ್ನು ನಮೂದಿಸಿ."
 "Please enter a valid full date.","ದಯವಿಟ್ಟು ಸರಿಯಾದ ಪೂರ್ಣ ದಿನಾಂಕವನ್ನು ನಮೂದಿಸಿ."
